@@ -13,7 +13,7 @@
 	jQuery('<option />', {
 		'selected': 'selected',
 		'value'   : '',
-		'text'    : '<span class="glyphicon glyphicon-align-justify"></span>'
+		'text'    : '<span class="t4p-icon-menu"></span>'
 	}).appendTo('.primary-menu .nav-holder select');
 
 	// Populate dropdown with menu items

@@ -258,7 +258,7 @@
   
 jQuery(document).ready(function($) {
 	$('ul.nav-menu').supersubs({
-		minWidth: 		9,						// requires em unit.
+
 		maxWidth: 		25,						// requires em unit.
 		extraWidth: 	0						// extra width can ensure lines don't sometimes turn over due to slight browser differences in how they round-off values
     }).superfish({
@@ -275,4 +275,4 @@ jQuery(document).ready(function($) {
 	//	onShow:			function(){},			// callback function fires once reveal animation completed – 'this' is the opened ul 
 	//	onHide:			function(){}			// callback function fires after a sub-menu has closed – 'this' is the ul that just closed 
 	});
-});  
+});
