@@ -1,0 +1,79 @@
+/*
+ Theme Name:   Twenty Sixteen Child
+ Theme URI:    http://infirev.com/twentysixteen-child/
+ Description:  My first child theme, based on Twenty Sixteen
+ Author:       Bernie Cultess
+ Author URI:   http://infirev.com
+ Template:     twentysixteen
+ Version:      1.0.0
+ Tags: 		   black, blue, gray, red, white, yellow, dark, light, one-column, two-columns, right-sidebar, fixed-layout, responsive-layout, accessibility-ready, custom-background, custom-colors, custom-header, custom-menu, editor-style, featured-images, flexible-header, microformats, post-formats, rtl-language-support, sticky-post, threaded-comments, translation-ready
+ Text Domain:  twentysixteen
+*/
+
+@media screen and (min-width: 44.375em) {
+.site {
+		margin: 20px 40px;
+	}
+}
+
+/**
+ * 11.0 - Content
+ */
+
+.site-inner {
+	max-width: 945px;
+}
+
+/**
+ * 11.1 - Header
+ */
+
+.site-header-main {
+	display: none;
+}
+.header-image {
+	-webkit-align-items: center;
+	-ms-flex-align: center;
+	align-items: center;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-justify-content: center;
+	justify-content: center;
+	-webkit-flex-wrap: wrap;
+	-ms-flex-wrap: wrap;
+	flex-wrap: wrap;
+
+}
+
+/**
+ * 11.2 - Posts and pages
+ */
+.entry-header {
+	display: none;
+}
+
+/**
+ * 14.3 - >= 910px
+ */
+
+@media screen and (min-width: 56.875em) {
+	.site-content {
+		padding: 0;
+	}
+}
+
+/**
+ * 14.4 - >= 985px
+ */
+
+@media screen and (min-width: 61.5625em) {
+	.site-header {
+		padding: 0;
+	}
+	.header-image {
+		margin-top: 0;
+		margin-bottom: 0;
+	}
+
+}
