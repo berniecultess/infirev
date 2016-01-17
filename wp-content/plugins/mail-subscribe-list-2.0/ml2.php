@@ -78,8 +78,8 @@ function ml2subform($atts=array()){
 	if ($prepend) $return .= '<p class="prepend">'.$prepend.'</p>';
 	
 	
-	if ($showname) $return .= '<p class="ml2_name"><label class="ml2_namelabel" for="ml2_name">'.$nametxt.'</label><input class="ml2_nameinput" placeholder="'.$nameholder.'" name="ml2_name" type="text" value=""></p>';
-	$return .= '<p class="ml2_email"><label class="ml2_emaillabel" for="ml2_email">'.$emailtxt.'</label><input class="ml2_emailinput" name="ml2_email" placeholder="'.$emailholder.'" type="email" value=""></p>';
+	if ($showname) $return .= '<p class="ml2_name"><span>*</span> <label class="ml2_namelabel" for="ml2_name">'.$nametxt.'</label><input class="ml2_nameinput" placeholder="'.$nameholder.'" name="ml2_name" type="text" value=""></p>';
+	$return .= '<p class="ml2_email"><span>*</span> <label class="ml2_emaillabel" for="ml2_email">'.$emailtxt.'</label><input class="ml2_emailinput" name="ml2_email" placeholder="'.$emailholder.'" type="email" value=""></p>';
 	$return .= '<p class="ml2_phone"><label class="ml2_phonelabel" for="ml2_phone">'.$phonetxt.'</label><input class="ml2_phoneinput" name="ml2_phone" placeholder="'.$phoneholder.'" type="tel" value=""></p>';
 	if ($showsubmit) $return .= '<p class="ml2_submit"><input name="submit" class="btn ml2_submitbtn" type="submit" value="'.($submittxt?$submittxt:'Submit').'"></p>';
 	$return .= '<p class="notinterested"><a href="http://bcultess.services4u.com/"><< Not Interested, But How Can I Support >></a></p>';

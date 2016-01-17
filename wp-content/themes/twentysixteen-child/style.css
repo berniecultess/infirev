@@ -52,7 +52,8 @@
 .entry-header {
 	display: none;
 }
-
+.entry-content {
+}
 /**
  * 14.3 - >= 910px
  */
@@ -60,6 +61,9 @@
 @media screen and (min-width: 56.875em) {
 	.site-content {
 		padding: 0;
+	}
+	.site-info {
+		margin-left: auto;
 	}
 }
 
@@ -76,4 +80,65 @@
 		margin-bottom: 0;
 	}
 
+}
+
+.form {
+	float: right;
+    width: 410px;
+    background-color: #eceded;
+    padding: 14px 30px 24px;
+}
+	.form p span {
+		color: crimson;
+	}
+	.form p input {
+	    border: 1px solid black;
+	    border-radius: 3px;
+	    height: 30px;
+	    width: 95%;
+	}
+	.form p input[type=submit] {
+	    height: 40px;
+	    width: 100%;
+	    line-height: 0.1;
+	}
+	p {
+		margin: 0 0 18px;
+	}
+	p.prepend {
+		text-align: center;
+		margin-bottom: 11px;
+	}
+	p.ml2_phone {
+		margin-bottom: 30px;
+	}
+		p.ml2_phone input {
+			width: 100%;
+		}
+	p.notinterested {
+		margin-bottom: 0;
+		font-size: smaller;
+		text-align: center;
+	}
+		p.notinterested a {
+			text-decoration: none;
+		}
+.video {
+	float: left;
+	width: 478px;
+	height: 344px;
+}
+	.vidSection {
+		width: 100%;
+		height: 100%;
+	}
+.site-footer .site-title:after {
+	content: " ";
+}
+#ml2-errors {
+	background-color: lightgray;
+	padding: 2px 10px 1px;
+}
+#ml2-errors label {
+	color: crimson;
 }

@@ -85,7 +85,7 @@
                         $message = $field['locked'];
                     }
                     $t4p_url = esc_url( "https://theme4press.com/" );
-                    $render = '<div class="redux-field-locked"><div class="redux-locked-inner'.(empty($message) ? ' empty' : '').'"><a target="_blank" href="'. $t4p_url.'evolve-multipurpose-wordpress-theme/" class="el el-lock">&nbsp;</a>' . $message . '</div></div>' . $render;					
+                    //$render = '<div class="redux-field-locked"><div class="redux-locked-inner'.(empty($message) ? ' empty' : '').'"><a target="_blank" href="'. $t4p_url.'evolve-multipurpose-wordpress-theme/" class="el el-lock">&nbsp;</a>' . $message . '</div></div>' . $render;					
                 }
                 return $render;
             }

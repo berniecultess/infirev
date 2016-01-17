@@ -3,7 +3,7 @@
    width: 500px;
    height: 70px;
    padding: 0;
-   margin: 15px auto;
+   margin: 50px auto;
 }
 @media only screen and (max-width: 540px){
    #quotearea {

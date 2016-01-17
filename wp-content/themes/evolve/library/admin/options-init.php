@@ -49,6 +49,10 @@ function evolve_migrate_options() {
                             'evl_slide3_img',
                             'evl_slide4_img',
                             'evl_slide5_img',
+                            'evl_content_box1_icon_upload',
+                            'evl_content_box2_icon_upload',
+                            'evl_content_box3_icon_upload',
+                            'evl_content_box4_icon_upload',
                         );
                         // Typography SHIM
                         if (in_array($key, $fontKeys)) {
@@ -2754,7 +2758,7 @@ Redux::setSection($opt_name, array(
             'id' => 'evl_content_box1_icon_upload',
             'type' => 'media',
             'title' => __('Content Box 1 Custom Icon', 'evolve'),
-            'locked' => sprintf(__('This option is only available with the <a href="%s" target="_blank">evolve+ Premium</a> version.', 'evolve'), $t4p_url . 'evolve-multipurpose-wordpress-theme/'),
+            //'locked' => sprintf(__('This option is only available with the <a href="%s" target="_blank">evolve+ Premium</a> version.', 'evolve'), $t4p_url . 'evolve-multipurpose-wordpress-theme/'),
             'url' => true,
         ),
         array(
@@ -2810,7 +2814,7 @@ Redux::setSection($opt_name, array(
             'id' => 'evl_content_box2_icon_upload',
             'type' => 'media',
             'title' => __('Content Box 2 Custom Icon', 'evolve'),
-            'locked' => sprintf(__('This option is only available with the <a href="%s" target="_blank">evolve+ Premium</a> version.', 'evolve'), $t4p_url . 'evolve-multipurpose-wordpress-theme/'),
+            //'locked' => sprintf(__('This option is only available with the <a href="%s" target="_blank">evolve+ Premium</a> version.', 'evolve'), $t4p_url . 'evolve-multipurpose-wordpress-theme/'),
             'url' => true,
         ),
         array(
@@ -2866,7 +2870,7 @@ Redux::setSection($opt_name, array(
             'id' => 'evl_content_box3_icon_upload',
             'type' => 'media',
             'title' => __('Content Box 3 Custom Icon', 'evolve'),
-            'locked' => sprintf(__('This option is only available with the <a href="%s" target="_blank">evolve+ Premium</a> version.', 'evolve'), $t4p_url . 'evolve-multipurpose-wordpress-theme/'),
+            //'locked' => sprintf(__('This option is only available with the <a href="%s" target="_blank">evolve+ Premium</a> version.', 'evolve'), $t4p_url . 'evolve-multipurpose-wordpress-theme/'),
             'url' => true,
         ),
         array(
@@ -2922,7 +2926,7 @@ Redux::setSection($opt_name, array(
             'id' => 'evl_content_box4_icon_upload',
             'type' => 'media',
             'title' => __('Content Box 4 Custom Icon', 'evolve'),
-            'locked' => sprintf(__('This option is only available with the <a href="%s" target="_blank">evolve+ Premium</a> version.', 'evolve'), $t4p_url . 'evolve-multipurpose-wordpress-theme/'),
+            //'locked' => sprintf(__('This option is only available with the <a href="%s" target="_blank">evolve+ Premium</a> version.', 'evolve'), $t4p_url . 'evolve-multipurpose-wordpress-theme/'),
             'url' => true,
         ),
         array(

@@ -13,9 +13,9 @@
                 	ml2_email: {
                 		required: true,
                 		email: true
-                	},
-                	ml2_phone: "required"
-                    /*firstname: "required",
+                	}
+                	/*ml2_phone: "required"
+                    firstname: "required",
                     lastname: "required",
                     email: {
                         required: true,
@@ -29,9 +29,9 @@
                 },
                 messages: {
                 	ml2_name: "Please enter your full name!",
-                	ml2_email: "Please enter a valid email!",
-                	ml2_phone: "Please enter your phone number!"
-                    /*firstname: "Please enter your firstname",
+                	ml2_email: "Please enter a valid email!"
+                	/*ml2_phone: "Please enter your phone number!"
+                    firstname: "Please enter your firstname",
                     lastname: "Please enter your lastname",
                     password: {
                         required: "Please provide a password",

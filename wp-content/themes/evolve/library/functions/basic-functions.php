@@ -676,6 +676,8 @@ function evolve_content_boxes() {
             $evolve_content_box1_icon = '';
         }
 
+        $evolve_content_box1_icon_upload = evolve_get_option('evl_content_box1_icon_upload','');
+
         /**
          * Count how many boxes are enabled on frontpage
          * Apply proper responsivity class
@@ -722,7 +724,11 @@ function evolve_content_boxes() {
 
             echo "<div class='col-sm-12 $BoxClass content-box content-box-1'>";
 
-            echo "<i class='fa " . $evolve_content_box1_icon . "'></i>";
+            if ($evolve_content_box1_icon_upload) {
+                echo "<img src='". esc_url( $evolve_content_box1_icon_upload ) . "' alt='' />";
+            } else {    
+                echo "<i class='fa " . $evolve_content_box1_icon . "'></i>";
+            }
 
             echo "<h2>" . esc_attr($evolve_content_box1_title) . "</h2>";
 
@@ -750,12 +756,17 @@ function evolve_content_boxes() {
             $evolve_content_box2_icon = '';
         }
 
+        $evolve_content_box2_icon_upload = evolve_get_option('evl_content_box2_icon_upload','');
+
         if ($evolve_content_box2_enable == true) {
 
             echo "<div class='col-sm-12 $BoxClass content-box content-box-2'>";
 
-            echo "<i class='fa " . $evolve_content_box2_icon . "'></i>";
-
+            if ($evolve_content_box2_icon_upload) {
+                echo "<img src='". esc_url( $evolve_content_box2_icon_upload ) . "' alt='' />";
+            } else {
+                echo "<i class='fa " . $evolve_content_box2_icon . "'></i>";
+            }
             echo "<h2>" . esc_attr($evolve_content_box2_title) . "</h2>";
 
             echo "<p>" . do_shortcode($evolve_content_box2_desc) . "</p>";
@@ -783,12 +794,17 @@ function evolve_content_boxes() {
             $evolve_content_box3_icon = '';
         }
 
+        $evolve_content_box3_icon_upload = evolve_get_option('evl_content_box3_icon_upload','');
+
         if ($evolve_content_box3_enable == true) {
 
             echo "<div class='col-sm-12 $BoxClass content-box content-box-3'>";
 
-            echo "<i class='fa " . $evolve_content_box3_icon . "'></i>";
-
+            if ($evolve_content_box3_icon_upload) {
+                echo "<img src='". esc_url( $evolve_content_box3_icon_upload ) . "' alt='' />";
+            } else {
+                echo "<i class='fa " . $evolve_content_box3_icon . "'></i>";
+            }
             echo "<h2>" . esc_attr($evolve_content_box3_title) . "</h2>";
 
             echo "<p>" . do_shortcode($evolve_content_box3_desc) . "</p>";
@@ -815,12 +831,17 @@ function evolve_content_boxes() {
             $evolve_content_box4_icon = '';
         }
 
+        $evolve_content_box4_icon_upload = evolve_get_option('evl_content_box4_icon_upload','');
+
         if ($evolve_content_box4_enable == true) {
 
             echo "<div class='col-sm-12 $BoxClass content-box content-box-4'>";
 
-            echo "<i class='fa " . $evolve_content_box4_icon . "'></i>";
-
+            if ($evolve_content_box4_icon_upload) {
+                echo "<img src='". esc_url( $evolve_content_box4_icon_upload ) . "' alt='' />";
+            } else {
+                echo "<i class='fa " . $evolve_content_box4_icon . "'></i>";
+            }
             echo "<h2>" . esc_attr($evolve_content_box4_title) . "</h2>";
 
             echo "<p>" . do_shortcode($evolve_content_box4_desc) . "</p>";
