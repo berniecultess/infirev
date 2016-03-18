@@ -15,9 +15,53 @@ Template: evolve-plus
 
 @import url("../evolve-plus/style.css");
 
-content_box_1_custom_icon, 
-content_box_2_custom_icon, 
-content_box_3_custom_icon, 
-content_box_4_custom_icon {
+img.content_box_1_custom_icon, 
+img.content_box_2_custom_icon, 
+img.content_box_3_custom_icon, 
+img.content_box_4_custom_icon {
 	border-radius: 50%;
+}
+div.slider_1, div.about_slider {
+   float: left;
+   margin-right: 20px;
+}
+div.entry-content ul, div.entry-content ol {
+    margin-left: 0;
+}
+div.t4p-slider-container {
+   margin-left: 0;
+   margin-right: 30px;
+   float: left;
+}
+div.t4p-slider {
+   min-height: 300px;
+   height: auto;
+}
+h1.entry-title,
+h2.entry-title,
+h3.entry-title,
+h4.entry-title,
+h5.entry-title,
+h6.entry-title {
+   text-transform: capitalize;
+}
+blockquote {
+   border-bottom: 0;
+}
+span.services_img {
+    margin-bottom: 10px;
+}
+/*ul.nav-menu li, label.searchfield {
+    margin-top: 9px !important;
+}*/
+div.youtube_vid {
+    float: left;
+    margin-right: 30px;
+}
+span.comment-number span {
+    display: none;
+}
+body #header.sticky-header img#logo-image {
+    margin-bottom: 0px;
+    margin-top: 6px;
 }

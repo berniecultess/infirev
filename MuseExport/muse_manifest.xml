@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.1.343" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="infirev.com" resolutions="1x" timestamp="1458188856806">
+<manifest alg="2" build="2015.1.1.343" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="infirev.com" resolutions="1x" timestamp="1458268689981">
   <folder name="css">
     <file name="site_global.css" crc="239192557"/>
     <file name="master_a-master.css" crc="112780163" ref="index:redirect"/>
@@ -22,7 +22,7 @@
     <file name="musewpdisclosure.js" crc="3974494556" ref="phone>index:phone>why-join:phone>featured-publications:phone>why-us"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="120190942" ref="phone>index:phone>why-join:phone>featured-publications:phone>why-us:index:redirect"/>
     <file name="jquery.watch.js" crc="3866665977" ref="phone>index:phone>why-join:phone>featured-publications:phone>why-us:index:redirect"/>
-    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>why-join:phone>featured-publications:phone>why-us:index:redirect"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>why-join:phone>featured-publications:phone>why-us"/>
     <file name="museredirect.js" crc="524071285" ref="index"/>
     <file name="form-u5482.php" crc="4081014254" ref="index"/>
     <file name="jquery.museresponsive.js" crc="367458044" ref="index"/>
@@ -79,7 +79,7 @@
     <file name="lion_family_running_in_lions-1600x900-page-fr3.jpg" crc="4072273436" ref="redirect"/>
     <file name="6947872-bird-flying-freedom-3320x201.jpg" crc="3788522818" seo="true" ref="redirect"/>
     <file name="6947872-bird-flying-freedom-3768x481.jpg" crc="357934092" seo="true" ref="index"/>
-    <file name="a-master-favicon.ico" crc="4128395235" ref="phone>index"/>
+    <file name="a-master-favicon.ico" crc="4128395235" ref="phone>index:index"/>
   </folder>
   <folder name="phone">
     <folder name="css">
@@ -97,6 +97,6 @@
     <file name="featured-publications.html" crc="217654442" seo="true" mt="1457724688821" redirect="true"/>
     <file name="why-us.html" crc="3849901904" seo="true" mt="1457724688821" redirect="true"/>
   </folder>
-  <file name="index.html" crc="4133659331" seo="true" mt="1458188856184" redirect="true"/>
-  <file name="redirect.html" crc="3941469379" mt="1458188856587" redirect="true"/>
+  <file name="index.html" crc="259746095" seo="true" mt="1458268689183" redirect="true"/>
+  <file name="redirect.html" crc="320458327" mt="1458268689718" redirect="true"/>
 </manifest>

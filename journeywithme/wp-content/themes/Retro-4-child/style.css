@@ -18,3 +18,18 @@
 */
 
 @import url("../Retro-4/style.css");
+
+/* Fix logo */
+.centered-logo #logo a {
+    margin-left: -95px;
+}
+#logo a {
+    background-size: 199px 69px;
+    height: 69px;
+    top: 21px;
+    width: 199px;
+}
+
+.light-text nav ul#main-nav li a {
+    color: red;
+}
