@@ -1,0 +1,102 @@
+<manifest alg="2" build="2015.1.1.343" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="infirev.com" resolutions="1x" timestamp="1458188856806">
+  <folder name="css">
+    <file name="site_global.css" crc="239192557"/>
+    <file name="master_a-master.css" crc="112780163" ref="index:redirect"/>
+    <file name="nomq_preview_master_a-master.css" crc="4170613088" ref="index:redirect"/>
+    <file name="index.css" crc="3897568922" ref="index"/>
+    <file name="nomq_index.css" crc="160737775" ref="index"/>
+    <file name="iefonts_index.css" crc="3930703231" ref="index"/>
+    <file name="redirect.css" crc="127170780" ref="redirect"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="484278746" ref="phone>index:phone>why-join:phone>featured-publications:phone>why-us:index:redirect"/>
+    <file name="museutils.js" crc="531812214" ref="phone>index:phone>why-join:phone>featured-publications:phone>why-us:index:redirect"/>
+    <file name="whatinput.js" crc="84559013" ref="phone>index:phone>why-join:phone>featured-publications:phone>why-us:index:redirect"/>
+    <file name="pie.js" crc="3827607177" ref="phone>index:phone>why-us:index"/>
+    <file name="webpro.js" crc="4156477058" ref="phone>index:phone>why-join:phone>featured-publications:phone>why-us:index"/>
+    <file name="form_check.php" crc="373582055" ref="phone>index:index"/>
+    <file name="form_throttle.php" crc="211381018" ref="phone>index:index"/>
+    <file name="form_process.php" crc="6354943" ref="phone>index:index"/>
+    <file name="form-u4840.php" crc="330214508" ref="phone>index"/>
+    <file name="jquery.musemenu.js" crc="3902934130" ref="phone>index:phone>why-join:phone>featured-publications:phone>why-us"/>
+    <file name="musewpdisclosure.js" crc="3974494556" ref="phone>index:phone>why-join:phone>featured-publications:phone>why-us"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="120190942" ref="phone>index:phone>why-join:phone>featured-publications:phone>why-us:index:redirect"/>
+    <file name="jquery.watch.js" crc="3866665977" ref="phone>index:phone>why-join:phone>featured-publications:phone>why-us:index:redirect"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>why-join:phone>featured-publications:phone>why-us:index:redirect"/>
+    <file name="museredirect.js" crc="524071285" ref="index"/>
+    <file name="form-u5482.php" crc="4081014254" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="367458044" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="u4841-17.png" crc="523106436" ref="phone>index"/>
+    <file name="u4841-17-r.png" crc="114393188" ref="phone>index"/>
+    <file name="u4841-17-m.png" crc="4117941600" ref="phone>index"/>
+    <file name="u4841-17-fs.png" crc="340021536" ref="phone>index"/>
+    <file name="menu-icon.png" crc="3860686542" ref="phone>index"/>
+    <file name="tir-logo-300.png" crc="335708233" seo="true" ref="phone>index:phone>why-join:phone>featured-publications:phone>why-us:index:redirect"/>
+    <file name="6947872-bird-flying-freedom-2.jpg" crc="3782172534" ref="phone>index:phone>why-join:phone>featured-publications:phone>why-us"/>
+    <file name="forutne-u4970-fr.jpg" crc="191917585" ref="phone>featured-publications"/>
+    <file name="sfh_acn_july2012-u4972-fr.jpg" crc="487981923" ref="phone>featured-publications"/>
+    <file name="inc-u4971-fr.jpg" crc="511981086" ref="phone>featured-publications"/>
+    <file name="dsn-u4973-fr.jpg" crc="4159213782" ref="phone>featured-publications"/>
+    <file name="byob-u4988-fr.jpg" crc="140801211" ref="phone>why-us"/>
+    <file name="free-u4989-fr.jpg" crc="136488279" ref="phone>why-us"/>
+    <file name="acvqzoxj-u4990-fr.jpg" crc="308281477" ref="phone>why-us"/>
+    <file name="time-u4991-fr.jpg" crc="3865107623" ref="phone>why-us"/>
+    <file name="lion_family_running_in_lions-1600x900.jpg" crc="4158260529" ref="index"/>
+    <file name="u5491-17.png" crc="364469680" ref="index"/>
+    <file name="u5491-17-r.png" crc="3815328053" ref="index"/>
+    <file name="u5491-17-m.png" crc="3874889397" ref="index"/>
+    <file name="u5491-17-fs.png" crc="317201113" ref="index"/>
+    <file name="6947872-bird-flying-freedom-3.jpg" crc="357934092" seo="true" ref="index"/>
+    <file name="6947872-bird-flying-freedom-5.jpg" crc="3863280947" ref="index:redirect"/>
+    <file name="forutne.jpg" crc="3986719272" ref="index"/>
+    <file name="sfh_acn_july2012.jpg" crc="123115107" ref="index"/>
+    <file name="inc.jpg" crc="409409768" ref="index"/>
+    <file name="dsn.jpg" crc="153908251" ref="index"/>
+    <file name="byob-ieu5636-fr.png" crc="175867666" ref="index"/>
+    <file name="byob.jpg" crc="136224875" ref="index"/>
+    <file name="time-ieu5639-fr.png" crc="3819923770" ref="index"/>
+    <file name="time.jpg" crc="3926124748" ref="index"/>
+    <file name="acvqzoxj.jpg" crc="3827681614" ref="index"/>
+    <file name="free-ieu5637-fr.png" crc="3931122944" ref="index"/>
+    <file name="free.jpg" crc="35665469" ref="index"/>
+    <file name="u5491-172.png" crc="364469680" ref="index"/>
+    <file name="u5491-17-r2.png" crc="3815328053" ref="index"/>
+    <file name="u5491-17-m2.png" crc="3874889397" ref="index"/>
+    <file name="u5491-17-fs2.png" crc="317201113" ref="index"/>
+    <file name="lion_family_running_in_lions-1600x900-page-fr.jpg" crc="202703726" ref="index"/>
+    <file name="u5491-173.png" crc="364469680" ref="index"/>
+    <file name="u5491-17-r3.png" crc="3815328053" ref="index"/>
+    <file name="u5491-17-m3.png" crc="3874889397" ref="index"/>
+    <file name="u5491-17-fs3.png" crc="317201113" ref="index"/>
+    <file name="lion_family_running_in_lions-1600x900-page-fr2.jpg" crc="4076006324" ref="index"/>
+    <file name="u5491-174.png" crc="364469680" ref="index"/>
+    <file name="u5491-17-r4.png" crc="3815328053" ref="index"/>
+    <file name="u5491-17-m4.png" crc="3874889397" ref="index"/>
+    <file name="u5491-17-fs4.png" crc="317201113" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="lion_family_running_in_lions-1600x900-page-fr3.jpg" crc="4072273436" ref="redirect"/>
+    <file name="6947872-bird-flying-freedom-3320x201.jpg" crc="3788522818" seo="true" ref="redirect"/>
+    <file name="6947872-bird-flying-freedom-3768x481.jpg" crc="357934092" seo="true" ref="index"/>
+    <file name="a-master-favicon.ico" crc="4128395235" ref="phone>index"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="43477781" ref="phone>index:phone>featured-publications:phone>why-join:phone>why-us"/>
+      <file name="nomq_preview_master_a-master.css" crc="321525473" ref="phone>index:phone>featured-publications:phone>why-join:phone>why-us"/>
+      <file name="index.css" crc="4111345135" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="4213403217" ref="phone>index"/>
+      <file name="featured-publications.css" crc="98050848" ref="phone>featured-publications"/>
+      <file name="why-join.css" crc="3780096507" ref="phone>why-join"/>
+      <file name="why-us.css" crc="50060484" ref="phone>why-us"/>
+      <file name="nomq_why-us.css" crc="321525473" ref="phone>why-us"/>
+    </folder>
+    <file name="index.html" crc="4021745973" seo="true" mt="1458188795582" redirect="true"/>
+    <file name="why-join.html" crc="4189075893" seo="true" mt="1457724688821" redirect="true"/>
+    <file name="featured-publications.html" crc="217654442" seo="true" mt="1457724688821" redirect="true"/>
+    <file name="why-us.html" crc="3849901904" seo="true" mt="1457724688821" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="4133659331" seo="true" mt="1458188856184" redirect="true"/>
+  <file name="redirect.html" crc="3941469379" mt="1458188856587" redirect="true"/>
+</manifest>

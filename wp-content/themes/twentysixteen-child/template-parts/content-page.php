@@ -18,14 +18,15 @@
 	<div class="entry-content">
 		<?php
 		the_content();
-		get_template_part( 'video', 'page' );
+			// Include the video content template.
+			get_template_part( 'template-parts/content', 'video' );
 		
 		wp_link_pages( array(
-			'before'      => '<div class="page-links"><span class="page-links-title">' . __( 'Pages:', 'twentysixteen' ) . '</span>',
+			'before'      => '<div class="page-links"><span class="page-links-title">' . __( 'Pages:', 'twentysixteen-child' ) . '</span>',
 			'after'       => '</div>',
 			'link_before' => '<span>',
 			'link_after'  => '</span>',
-			'pagelink'    => '<span class="screen-reader-text">' . __( 'Page', 'twentysixteen' ) . ' </span>%',
+			'pagelink'    => '<span class="screen-reader-text">' . __( 'Page', 'twentysixteen-child' ) . ' </span>%',
 			'separator'   => '<span class="screen-reader-text">, </span>',
 		) );
 		?>
@@ -36,7 +37,7 @@
 		edit_post_link(
 			sprintf(
 				/* translators: %s: Name of current post */
-				__( 'Edit<span class="screen-reader-text"> "%s"</span>', 'twentysixteen' ),
+				__( 'Edit<span class="screen-reader-text"> "%s"</span>', 'twentysixteen-child' ),
 				get_the_title()
 			),
 			'<footer class="entry-footer"><span class="edit-link">',

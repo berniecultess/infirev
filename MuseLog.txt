@@ -1,0 +1,655 @@
+Logging in build 2015.1.0.2309 started at: Tue Feb 16 22:51:07 2016
+========================================
+[00:00:08.989] 22:51:16.517 | NOTE: File is valid SQL mini-save structure, but has no miniSaveHeader record. Ignoring.
+[00:00:08.990] 22:51:16.519 | NOTE: File is valid SQL mini-save structure, but has no miniSaveHeader record. Ignoring.
+[49:34:37.340] 00:25:44.868 | Beginning SaveAs of 'Website-1' to file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:299
+[49:34:38.626] 00:25:46.154 | SaveAs complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:655360 mod Date:Fri Feb 19 00:25:46 GMT-0500 2016 highest UID:299
+[49:37:43.245] 00:28:50.774 | Beginning drag
+[49:37:43.256] 00:28:50.784 | Already dragging, so cannot restart drag
+[49:37:44.266] 00:28:51.794 | Drag complete
+[49:40:04.026] 00:31:11.555 | Cannot drag - renderer Layer 2 is editing
+[49:40:04.043] 00:31:11.572 | Cannot drag - renderer Layer 2 is editing
+[49:40:04.061] 00:31:11.589 | Cannot drag - renderer Layer 2 is editing
+[49:40:04.082] 00:31:11.611 | Cannot drag - renderer Layer 2 is editing
+[49:40:04.095] 00:31:11.623 | Cannot drag - renderer Layer 2 is editing
+[49:40:04.112] 00:31:11.641 | Cannot drag - renderer Layer 2 is editing
+[49:40:04.132] 00:31:11.660 | Cannot drag - renderer Layer 2 is editing
+[49:40:04.150] 00:31:11.678 | Cannot drag - renderer Layer 2 is editing
+[49:40:04.166] 00:31:11.695 | Cannot drag - renderer Layer 2 is editing
+[49:40:04.182] 00:31:11.710 | Cannot drag - renderer Layer 2 is editing
+[49:40:04.202] 00:31:11.730 | Cannot drag - renderer Layer 2 is editing
+[49:40:04.217] 00:31:11.745 | Cannot drag - renderer Layer 2 is editing
+[49:40:04.233] 00:31:11.761 | Cannot drag - renderer Layer 2 is editing
+[49:40:04.265] 00:31:11.793 | Cannot drag - renderer Layer 2 is editing
+[49:41:55.615] 00:33:03.143 | Beginning drag
+[49:41:55.625] 00:33:03.153 | Already dragging, so cannot restart drag
+[49:41:57.336] 00:33:04.864 | Drag complete
+[49:42:30.317] 00:33:37.846 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:349
+[49:42:31.517] 00:33:39.045 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:753664 mod Date:Fri Feb 19 00:33:38 GMT-0500 2016 highest UID:349
+[72:58:43.358] 23:49:50.886 | Beginning drag
+[72:58:43.371] 23:49:50.900 | Already dragging, so cannot restart drag
+[72:58:45.109] 23:49:52.637 | Drag complete
+[72:59:05.886] 23:50:13.414 | Beginning drag
+[72:59:05.898] 23:50:13.426 | Already dragging, so cannot restart drag
+[72:59:07.652] 23:50:15.180 | Drag complete
+[72:59:09.599] 23:50:17.127 | Beginning drag
+[72:59:09.612] 23:50:17.141 | Already dragging, so cannot restart drag
+[72:59:10.815] 23:50:18.343 | Drag complete
+[72:59:12.902] 23:50:20.431 | Beginning drag
+[72:59:12.923] 23:50:20.452 | Already dragging, so cannot restart drag
+[72:59:15.611] 23:50:23.139 | Drag complete
+[72:59:16.545] 23:50:24.073 | Beginning drag
+[72:59:16.566] 23:50:24.094 | Already dragging, so cannot restart drag
+[72:59:18.114] 23:50:25.643 | Drag complete
+[72:59:31.346] 23:50:38.874 | Beginning drag
+[72:59:31.354] 23:50:38.883 | Already dragging, so cannot restart drag
+[72:59:33.880] 23:50:41.408 | Drag complete
+[72:59:57.351] 23:51:04.879 | Beginning drag
+[72:59:57.359] 23:51:04.888 | Already dragging, so cannot restart drag
+[73:00:00.984] 23:51:08.513 | Drag complete
+[73:00:29.305] 23:51:36.834 | Beginning drag
+[73:00:29.320] 23:51:36.848 | Already dragging, so cannot restart drag
+[73:00:31.657] 23:51:39.186 | Drag complete
+[73:01:36.487] 23:52:44.016 | Beginning drag
+[73:01:36.499] 23:52:44.027 | Already dragging, so cannot restart drag
+[73:01:37.301] 23:52:44.830 | Drag complete
+[73:02:02.102] 23:53:09.631 | Beginning drag
+[73:02:02.110] 23:53:09.639 | Already dragging, so cannot restart drag
+[73:02:03.139] 23:53:10.667 | Drag complete
+[73:02:25.299] 23:53:32.827 | Beginning drag
+[73:02:25.308] 23:53:32.836 | Already dragging, so cannot restart drag
+[73:02:27.908] 23:53:35.436 | Drag complete
+[73:03:10.533] 23:54:18.062 | Beginning drag
+[73:03:10.553] 23:54:18.082 | Already dragging, so cannot restart drag
+[73:03:12.167] 23:54:19.695 | Drag complete
+[73:03:39.936] 23:54:47.464 | Beginning drag
+[73:03:39.937] 23:54:47.466 | Already dragging, so cannot restart drag
+[73:03:41.900] 23:54:49.428 | Drag complete
+[73:03:46.873] 23:54:54.402 | Beginning drag
+[73:03:46.883] 23:54:54.412 | Already dragging, so cannot restart drag
+[73:03:48.935] 23:54:56.463 | Drag complete
+[73:03:52.003] 23:54:59.531 | Beginning drag
+[73:03:52.012] 23:54:59.540 | Already dragging, so cannot restart drag
+[73:03:53.873] 23:55:01.401 | Drag complete
+[73:04:57.449] 23:56:04.977 | Beginning drag
+[73:04:57.462] 23:56:04.990 | Already dragging, so cannot restart drag
+[73:04:59.845] 23:56:07.373 | Drag complete
+[73:05:03.023] 23:56:10.551 | Beginning drag
+[73:05:03.032] 23:56:10.561 | Already dragging, so cannot restart drag
+[73:05:04.521] 23:56:12.049 | Drag complete
+[73:05:57.534] 23:57:05.062 | Beginning drag
+[73:05:57.543] 23:57:05.072 | Already dragging, so cannot restart drag
+[73:06:09.926] 23:57:17.454 | Drag complete
+[73:06:14.894] 23:57:22.422 | Beginning drag
+[73:06:14.901] 23:57:22.430 | Already dragging, so cannot restart drag
+[73:06:16.616] 23:57:24.145 | Drag complete
+[73:06:18.376] 23:57:25.905 | Beginning drag
+[73:06:18.387] 23:57:25.915 | Already dragging, so cannot restart drag
+[73:06:20.967] 23:57:28.495 | Drag complete
+[73:20:34.041] 00:11:41.569 | Beginning drag
+[73:20:34.066] 00:11:41.595 | Already dragging, so cannot restart drag
+[73:20:37.428] 00:11:44.956 | Drag complete
+[73:20:39.430] 00:11:46.959 | Beginning drag
+[73:20:39.450] 00:11:46.978 | Already dragging, so cannot restart drag
+[73:20:43.486] 00:11:51.015 | Drag complete
+[73:20:45.838] 00:11:53.366 | Beginning drag
+[73:20:45.851] 00:11:53.380 | Already dragging, so cannot restart drag
+[73:20:47.399] 00:11:54.928 | Drag complete
+[73:20:49.382] 00:11:56.911 | Beginning drag
+[73:20:49.399] 00:11:56.927 | Already dragging, so cannot restart drag
+[73:20:50.417] 00:11:57.945 | Drag complete
+[73:51:01.219] 00:42:08.748 | Error - IMS : ErrorCode=22 ErrorMessage=
+[73:51:01.219] 00:42:08.748 | Error - IMS : ErrorCode=22 ErrorMessage=
+[73:51:01.337] 00:42:08.866 | Error - IMS : ErrorCode=22 ErrorMessage=
+[73:58:40.633] 00:49:48.161 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:477
+[73:58:41.803] 00:49:49.331 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:917504 mod Date:Sat Feb 20 00:49:49 GMT-0500 2016 highest UID:477
+[74:00:18.521] 00:51:26.050 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:477
+[74:00:20.047] 00:51:27.576 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:917504 mod Date:Sat Feb 20 00:51:27 GMT-0500 2016 highest UID:477
+[74:04:46.729] 00:55:54.258 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:478
+[74:04:47.915] 00:55:55.443 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:917504 mod Date:Sat Feb 20 00:55:55 GMT-0500 2016 highest UID:478
+[74:05:24.847] 00:56:32.375 | Error - IMS : ErrorCode=22 ErrorMessage=
+[74:13:46.544] 01:04:54.072 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:478
+[74:13:48.065] 01:04:55.593 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:917504 mod Date:Sat Feb 20 01:04:55 GMT-0500 2016 highest UID:478
+[74:18:26.892] 01:09:34.420 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:480
+[74:18:28.057] 01:09:35.586 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:917504 mod Date:Sat Feb 20 01:09:35 GMT-0500 2016 highest UID:480
+[74:21:11.579] 01:12:19.108 | Error - IMS : ErrorCode=22 ErrorMessage=
+[74:27:16.105] 01:18:23.633 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:483
+[74:27:17.269] 01:18:24.797 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:917504 mod Date:Sat Feb 20 01:18:24 GMT-0500 2016 highest UID:483
+[74:29:01.048] 01:20:08.576 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:483
+[74:29:02.227] 01:20:09.755 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:917504 mod Date:Sat Feb 20 01:20:09 GMT-0500 2016 highest UID:483
+[74:38:26.097] 01:29:33.625 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:484
+[74:38:27.639] 01:29:35.167 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:983040 mod Date:Sat Feb 20 01:29:35 GMT-0500 2016 highest UID:484
+[74:41:41.038] 01:32:48.567 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:484
+[74:41:42.542] 01:32:50.071 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:983040 mod Date:Sat Feb 20 01:32:49 GMT-0500 2016 highest UID:484
+[74:42:48.637] 01:33:56.165 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:484
+[74:42:49.831] 01:33:57.359 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:983040 mod Date:Sat Feb 20 01:33:57 GMT-0500 2016 highest UID:484
+[74:48:12.139] 01:39:19.667 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:484
+[74:48:13.324] 01:39:20.852 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:983040 mod Date:Sat Feb 20 01:39:20 GMT-0500 2016 highest UID:484
+[74:52:09.475] 01:43:17.004 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:484
+[74:52:10.984] 01:43:18.512 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:983040 mod Date:Sat Feb 20 01:43:18 GMT-0500 2016 highest UID:484
+[74:54:49.280] 01:45:56.808 | Beginning drag
+[74:54:49.290] 01:45:56.818 | Already dragging, so cannot restart drag
+[74:54:50.906] 01:45:58.435 | Drag complete
+[75:02:58.119] 01:54:05.647 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:530
+[75:02:59.303] 01:54:06.831 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:1015808 mod Date:Sat Feb 20 01:54:06 GMT-0500 2016 highest UID:530
+[75:19:35.871] 02:10:43.399 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:530
+[75:19:37.074] 02:10:44.602 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:1081344 mod Date:Sat Feb 20 02:10:44 GMT-0500 2016 highest UID:530
+[75:22:55.624] 02:14:03.153 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:530
+[75:22:57.149] 02:14:04.678 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:1081344 mod Date:Sat Feb 20 02:14:04 GMT-0500 2016 highest UID:530
+[86:54:41.951] 13:45:49.475 | Error - IMS : ErrorCode=22 ErrorMessage=
+[87:18:54.488] 14:10:02.016 | quitWithUI:Quitting Application. Called by: 
+[87:18:55.751] 14:10:03.279 | Quitting Application after 5238.8 minutes. Called by: 
+
+==========
+Logging ended at: Sat Feb 20 14:10:09 2016
+
+Logging in build 2015.1.0.2309 started at: Sat Feb 20 20:20:36 2016
+========================================
+[00:00:09.848] 20:20:46.655 | NOTE: File is valid SQL mini-save structure, but has no miniSaveHeader record. Ignoring.
+[00:00:35.418] 20:21:12.224 | Trying to open file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse with size:1081344 mod Date:Sat Feb 20 02:14:04 GMT-0500 2016
+[00:00:35.419] 20:21:12.226 | Opening file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' with status:success size:1081344 mod Date:Sat Feb 20 02:14:04 GMT-0500 2016 highestUID: 530
+[00:41:46.556] 21:02:23.363 | Cannot drag - renderer SubTitle is editing
+[00:41:46.571] 21:02:23.377 | Cannot drag - renderer SubTitle is editing
+[00:41:46.588] 21:02:23.394 | Cannot drag - renderer SubTitle is editing
+[00:41:46.605] 21:02:23.411 | Cannot drag - renderer SubTitle is editing
+[00:41:46.622] 21:02:23.429 | Cannot drag - renderer SubTitle is editing
+[00:41:46.641] 21:02:23.448 | Cannot drag - renderer SubTitle is editing
+[00:41:46.656] 21:02:23.463 | Cannot drag - renderer SubTitle is editing
+[00:41:46.673] 21:02:23.480 | Cannot drag - renderer SubTitle is editing
+[00:41:46.692] 21:02:23.499 | Cannot drag - renderer SubTitle is editing
+[00:41:46.708] 21:02:23.515 | Cannot drag - renderer SubTitle is editing
+[00:41:46.726] 21:02:23.533 | Cannot drag - renderer SubTitle is editing
+[00:41:46.742] 21:02:23.549 | Cannot drag - renderer SubTitle is editing
+[00:41:46.761] 21:02:23.568 | Cannot drag - renderer SubTitle is editing
+[00:44:48.390] 21:05:25.197 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:552
+[00:44:49.685] 21:05:26.492 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:1441792 mod Date:Sat Feb 20 21:05:26 GMT-0500 2016 highest UID:552
+[01:03:12.584] 21:23:49.391 | Beginning drag
+[01:03:12.592] 21:23:49.398 | Already dragging, so cannot restart drag
+[01:03:15.890] 21:23:52.697 | Drag complete
+[01:09:54.311] 21:30:31.117 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:603
+[01:09:55.486] 21:30:32.293 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:1540096 mod Date:Sat Feb 20 21:30:32 GMT-0500 2016 highest UID:603
+[01:17:50.389] 21:38:27.195 | Beginning drag
+[01:17:50.395] 21:38:27.202 | Already dragging, so cannot restart drag
+[01:17:51.871] 21:38:28.677 | Drag complete
+[01:22:34.685] 21:43:11.492 | Beginning drag
+[01:22:34.692] 21:43:11.499 | Already dragging, so cannot restart drag
+[01:22:35.110] 21:43:11.916 | Drag complete
+[01:28:22.983] 21:48:59.790 | Beginning drag
+[01:28:22.990] 21:48:59.797 | Already dragging, so cannot restart drag
+[01:28:33.132] 21:49:09.939 | Drag complete
+[01:29:40.945] 21:50:17.752 | Beginning drag
+[01:29:40.958] 21:50:17.765 | Already dragging, so cannot restart drag
+[01:29:42.945] 21:50:19.752 | Drag complete
+[01:35:31.308] 21:56:08.115 | Beginning drag
+[01:35:31.315] 21:56:08.121 | Already dragging, so cannot restart drag
+[01:35:37.284] 21:56:14.091 | Drag complete
+[01:35:52.631] 21:56:29.438 | Beginning drag
+[01:35:52.637] 21:56:29.444 | Already dragging, so cannot restart drag
+[01:35:56.720] 21:56:33.527 | Drag complete
+[01:36:24.912] 21:57:01.719 | Beginning drag
+[01:36:24.918] 21:57:01.725 | Already dragging, so cannot restart drag
+[01:36:45.859] 21:57:22.666 | Drag complete
+[01:44:31.541] 22:05:08.348 | Beginning drag
+[01:44:31.549] 22:05:08.356 | Already dragging, so cannot restart drag
+[01:44:34.324] 22:05:11.131 | Drag complete
+[01:45:02.811] 22:05:39.618 | Beginning drag
+[01:45:02.819] 22:05:39.626 | Already dragging, so cannot restart drag
+[01:45:06.802] 22:05:43.609 | Drag complete
+[01:45:15.794] 22:05:52.601 | Beginning drag
+[01:45:15.802] 22:05:52.608 | Already dragging, so cannot restart drag
+[01:45:18.390] 22:05:55.197 | Drag complete
+[01:47:26.984] 22:08:03.791 | Beginning drag
+[01:47:26.991] 22:08:03.798 | Already dragging, so cannot restart drag
+[01:47:29.191] 22:08:05.998 | Drag complete
+[01:47:49.188] 22:08:25.995 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:784
+[01:47:50.356] 22:08:27.163 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:2195456 mod Date:Sat Feb 20 22:08:27 GMT-0500 2016 highest UID:784
+[02:02:29.615] 22:23:06.422 | Beginning drag
+[02:02:29.622] 22:23:06.429 | Already dragging, so cannot restart drag
+[02:02:32.734] 22:23:09.540 | Drag complete
+[02:37:15.443] 22:57:52.250 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:815
+[02:37:16.622] 22:57:53.429 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:2260992 mod Date:Sat Feb 20 22:57:53 GMT-0500 2016 highest UID:815
+[02:51:12.441] 23:11:49.247 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:815
+[02:51:13.976] 23:11:50.783 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:2260992 mod Date:Sat Feb 20 23:11:50 GMT-0500 2016 highest UID:815
+[03:07:55.039] 23:28:31.846 | HTMLPI::callCompletionFuncWithCachedBMD has no _posterCompleteFunc. Hope that's ok
+[03:08:20.828] 23:28:57.634 | HTMLPI::callCompletionFuncWithCachedBMD has no _posterCompleteFunc. Hope that's ok
+[03:10:15.822] 23:30:52.628 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:1059
+[03:10:16.993] 23:30:53.800 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:2260992 mod Date:Sat Feb 20 23:30:53 GMT-0500 2016 highest UID:1059
+[03:15:32.079] 23:36:08.885 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:1059
+[03:15:33.276] 23:36:10.083 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:2260992 mod Date:Sat Feb 20 23:36:09 GMT-0500 2016 highest UID:1059
+[03:17:06.052] 23:37:42.859 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:1059
+[03:17:07.565] 23:37:44.372 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:2260992 mod Date:Sat Feb 20 23:37:44 GMT-0500 2016 highest UID:1059
+[03:29:01.541] 23:49:38.347 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:1183
+[03:29:03.051] 23:49:39.857 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:2260992 mod Date:Sat Feb 20 23:49:39 GMT-0500 2016 highest UID:1183
+[03:37:26.689] 23:58:03.496 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:1183
+[03:37:27.875] 23:58:04.681 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:2260992 mod Date:Sat Feb 20 23:58:04 GMT-0500 2016 highest UID:1183
+[03:42:13.250] 00:02:50.056 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:1183
+[03:42:14.450] 00:02:51.257 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:2260992 mod Date:Sun Feb 21 00:02:51 GMT-0500 2016 highest UID:1183
+[03:54:28.819] 00:15:05.625 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:1183
+[03:54:30.016] 00:15:06.823 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:2260992 mod Date:Sun Feb 21 00:15:06 GMT-0500 2016 highest UID:1183
+[03:57:09.830] 00:17:46.637 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:1183
+[03:57:11.011] 00:17:47.818 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:2260992 mod Date:Sun Feb 21 00:17:47 GMT-0500 2016 highest UID:1183
+[03:57:46.173] 00:18:22.980 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:1183
+[03:57:47.677] 00:18:24.484 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:2260992 mod Date:Sun Feb 21 00:18:24 GMT-0500 2016 highest UID:1183
+[03:58:26.972] 00:19:03.779 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:1183
+[03:58:28.512] 00:19:05.318 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:2260992 mod Date:Sun Feb 21 00:19:05 GMT-0500 2016 highest UID:1183
+[03:59:03.419] 00:19:40.226 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:1183
+[03:59:04.927] 00:19:41.734 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:2260992 mod Date:Sun Feb 21 00:19:41 GMT-0500 2016 highest UID:1183
+[03:59:21.155] 00:19:57.962 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:1183
+[03:59:22.676] 00:19:59.483 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:2260992 mod Date:Sun Feb 21 00:19:59 GMT-0500 2016 highest UID:1183
+[04:00:16.386] 00:20:53.193 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:1183
+[04:00:17.884] 00:20:54.691 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:2260992 mod Date:Sun Feb 21 00:20:54 GMT-0500 2016 highest UID:1183
+[04:05:54.402] 00:26:31.209 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:1183
+[04:05:55.918] 00:26:32.725 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:2260992 mod Date:Sun Feb 21 00:26:32 GMT-0500 2016 highest UID:1183
+[04:06:24.393] 00:27:01.200 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:1183
+[04:06:25.917] 00:27:02.724 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:2260992 mod Date:Sun Feb 21 00:27:02 GMT-0500 2016 highest UID:1183
+[04:32:56.957] 00:53:33.764 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:1201
+[04:32:58.631] 00:53:35.438 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:2260992 mod Date:Sun Feb 21 00:53:35 GMT-0500 2016 highest UID:1201
+[04:54:28.788] 01:15:05.595 | Beginning drag
+[04:54:28.799] 01:15:05.606 | Already dragging, so cannot restart drag
+[04:54:31.234] 01:15:08.041 | Drag complete
+[04:57:10.821] 01:17:47.627 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:1236
+[04:57:12.016] 01:17:48.823 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:2326528 mod Date:Sun Feb 21 01:17:48 GMT-0500 2016 highest UID:1236
+[05:00:35.088] 01:21:11.895 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:1239
+[05:00:36.261] 01:21:13.068 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:2326528 mod Date:Sun Feb 21 01:21:12 GMT-0500 2016 highest UID:1239
+[39:35:43.856] 11:56:20.663 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:1239
+[39:35:45.049] 11:56:21.856 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:2326528 mod Date:Mon Feb 22 11:56:21 GMT-0500 2016 highest UID:1239
+[39:38:19.845] 11:58:56.652 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:1239
+[39:38:21.425] 11:58:58.231 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:2326528 mod Date:Mon Feb 22 11:58:58 GMT-0500 2016 highest UID:1239
+[39:41:28.753] 12:02:05.560 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:1239
+[39:41:29.959] 12:02:06.766 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:2326528 mod Date:Mon Feb 22 12:02:06 GMT-0500 2016 highest UID:1239
+[39:42:59.102] 12:03:35.909 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:1239
+[39:43:00.293] 12:03:37.100 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:2326528 mod Date:Mon Feb 22 12:03:36 GMT-0500 2016 highest UID:1239
+[39:55:41.501] 12:16:18.308 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:1242
+[39:55:42.690] 12:16:19.496 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:2326528 mod Date:Mon Feb 22 12:16:19 GMT-0500 2016 highest UID:1242
+[40:16:55.864] 12:37:32.671 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:1344
+[40:16:57.037] 12:37:33.844 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:2326528 mod Date:Mon Feb 22 12:37:33 GMT-0500 2016 highest UID:1344
+[40:27:58.641] 12:48:35.448 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:1344
+[40:27:59.816] 12:48:36.622 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:2326528 mod Date:Mon Feb 22 12:48:36 GMT-0500 2016 highest UID:1344
+[40:28:26.876] 12:49:03.683 | Trying to open file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse with size:2326528 mod Date:Mon Feb 22 12:48:36 GMT-0500 2016
+[40:28:26.878] 12:49:03.685 | Opening file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' with status:success size:2326528 mod Date:Mon Feb 22 12:48:36 GMT-0500 2016 highestUID: 1344
+[40:36:13.654] 12:56:50.461 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:1344
+[40:36:15.177] 12:56:51.983 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:2326528 mod Date:Mon Feb 22 12:56:51 GMT-0500 2016 highest UID:1344
+[40:40:03.329] 13:00:40.136 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:1354
+[40:40:04.505] 13:00:41.312 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:2326528 mod Date:Mon Feb 22 13:00:41 GMT-0500 2016 highest UID:1354
+[40:46:08.897] 13:06:45.703 | Beginning drag
+[40:46:08.906] 13:06:45.713 | Already dragging, so cannot restart drag
+[40:46:11.839] 13:06:48.646 | Drag complete
+[40:46:50.167] 13:07:26.974 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:1354
+[40:46:51.370] 13:07:28.177 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:2326528 mod Date:Mon Feb 22 13:07:28 GMT-0500 2016 highest UID:1354
+[41:11:03.751] 13:31:40.558 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:1363
+[41:11:05.257] 13:31:42.063 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:2326528 mod Date:Mon Feb 22 13:31:41 GMT-0500 2016 highest UID:1363
+[41:12:35.213] 13:33:12.019 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:1363
+[41:12:36.420] 13:33:13.227 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:2326528 mod Date:Mon Feb 22 13:33:13 GMT-0500 2016 highest UID:1363
+[41:16:44.975] 13:37:21.782 | Beginning drag
+[41:16:44.982] 13:37:21.788 | Already dragging, so cannot restart drag
+[41:16:47.012] 13:37:23.819 | Drag complete
+[41:18:45.997] 13:39:22.803 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:1373
+[41:18:47.203] 13:39:24.010 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:2326528 mod Date:Mon Feb 22 13:39:23 GMT-0500 2016 highest UID:1373
+[41:21:04.530] 13:41:41.337 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:1373
+[41:21:05.698] 13:41:42.505 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:2326528 mod Date:Mon Feb 22 13:41:42 GMT-0500 2016 highest UID:1373
+[41:23:54.023] 13:44:30.830 | Beginning drag
+[41:23:54.033] 13:44:30.840 | Already dragging, so cannot restart drag
+[41:23:56.085] 13:44:32.892 | Drag complete
+[41:24:08.968] 13:44:45.774 | Beginning drag
+[41:24:08.977] 13:44:45.783 | Already dragging, so cannot restart drag
+[41:24:12.013] 13:44:48.820 | Drag complete
+[41:25:36.363] 13:46:13.170 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:1395
+[41:25:37.567] 13:46:14.374 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:2326528 mod Date:Mon Feb 22 13:46:14 GMT-0500 2016 highest UID:1395
+[41:28:39.759] 13:49:16.566 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:1398
+[41:28:41.273] 13:49:18.079 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:2326528 mod Date:Mon Feb 22 13:49:17 GMT-0500 2016 highest UID:1398
+[41:32:17.698] 13:52:54.505 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:1398
+[41:32:19.230] 13:52:56.037 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:2326528 mod Date:Mon Feb 22 13:52:55 GMT-0500 2016 highest UID:1398
+[41:47:14.472] 14:07:51.279 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:1398
+[41:47:15.645] 14:07:52.452 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:2326528 mod Date:Mon Feb 22 14:07:52 GMT-0500 2016 highest UID:1398
+[42:03:13.349] 14:23:50.156 | Beginning drag
+[42:03:13.360] 14:23:50.166 | Already dragging, so cannot restart drag
+[42:03:15.239] 14:23:52.046 | Drag complete
+[42:07:00.462] 14:27:37.269 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:1406
+[42:07:01.661] 14:27:38.468 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:2326528 mod Date:Mon Feb 22 14:27:38 GMT-0500 2016 highest UID:1406
+[42:08:36.708] 14:29:13.514 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:1411
+[42:08:37.906] 14:29:14.712 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:2326528 mod Date:Mon Feb 22 14:29:14 GMT-0500 2016 highest UID:1411
+[42:11:53.295] 14:32:30.102 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:1411
+[42:11:54.484] 14:32:31.291 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:2326528 mod Date:Mon Feb 22 14:32:31 GMT-0500 2016 highest UID:1411
+[42:12:21.558] 14:32:58.365 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:1411
+[42:12:23.066] 14:32:59.873 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:2326528 mod Date:Mon Feb 22 14:32:59 GMT-0500 2016 highest UID:1411
+[42:13:51.887] 14:34:28.694 | Beginning drag
+[42:13:51.949] 14:34:28.756 | Already dragging, so cannot restart drag
+[42:13:52.655] 14:34:29.461 | Drag complete
+[42:23:02.792] 14:43:39.598 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:1416
+[42:23:03.972] 14:43:40.779 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:2326528 mod Date:Mon Feb 22 14:43:40 GMT-0500 2016 highest UID:1416
+[42:23:38.983] 14:44:15.789 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:1416
+[42:23:40.176] 14:44:16.983 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:2326528 mod Date:Mon Feb 22 14:44:16 GMT-0500 2016 highest UID:1416
+[42:29:20.360] 14:49:57.167 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:1416
+[42:29:21.544] 14:49:58.351 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:2326528 mod Date:Mon Feb 22 14:49:58 GMT-0500 2016 highest UID:1416
+[42:29:58.312] 14:50:35.119 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:1416
+[42:29:59.837] 14:50:36.644 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:2326528 mod Date:Mon Feb 22 14:50:36 GMT-0500 2016 highest UID:1416
+[42:30:25.574] 14:51:02.381 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:1416
+[42:30:27.464] 14:51:04.270 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:2326528 mod Date:Mon Feb 22 14:51:04 GMT-0500 2016 highest UID:1416
+[42:43:00.620] 15:03:37.427 | Beginning drag
+[42:43:00.628] 15:03:37.435 | Already dragging, so cannot restart drag
+[42:43:01.622] 15:03:38.428 | Drag complete
+[42:43:05.182] 15:03:41.989 | Beginning drag
+[42:43:05.192] 15:03:41.999 | Already dragging, so cannot restart drag
+[42:43:07.024] 15:03:43.831 | Drag complete
+[42:43:40.500] 15:04:17.307 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:1422
+[42:43:41.691] 15:04:18.498 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:2326528 mod Date:Mon Feb 22 15:04:18 GMT-0500 2016 highest UID:1422
+[43:19:13.612] 15:39:50.419 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:1456
+[43:19:14.813] 15:39:51.620 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:2326528 mod Date:Mon Feb 22 15:39:51 GMT-0500 2016 highest UID:1456
+[43:20:38.474] 15:41:15.281 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:1456
+[43:20:39.641] 15:41:16.447 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:2326528 mod Date:Mon Feb 22 15:41:16 GMT-0500 2016 highest UID:1456
+[43:20:47.754] 15:41:24.561 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:1459
+[43:20:49.433] 15:41:26.240 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:2326528 mod Date:Mon Feb 22 15:41:26 GMT-0500 2016 highest UID:1459
+[43:22:03.547] 15:42:40.354 | Beginning drag
+[43:22:03.555] 15:42:40.362 | Already dragging, so cannot restart drag
+[43:22:08.839] 15:42:45.646 | Drag complete
+[43:22:10.007] 15:42:46.813 | Beginning drag
+[43:22:10.016] 15:42:46.823 | Already dragging, so cannot restart drag
+[43:22:10.587] 15:42:47.394 | Drag complete
+[43:23:08.823] 15:43:45.630 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:1509
+[43:23:10.012] 15:43:46.819 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:2326528 mod Date:Mon Feb 22 15:43:46 GMT-0500 2016 highest UID:1509
+[43:26:42.562] 15:47:19.369 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:1521
+[43:26:44.132] 15:47:20.939 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:2326528 mod Date:Mon Feb 22 15:47:20 GMT-0500 2016 highest UID:1521
+[43:35:14.167] 15:55:50.973 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:1560
+[43:35:15.371] 15:55:52.178 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:2555904 mod Date:Mon Feb 22 15:55:52 GMT-0500 2016 highest UID:1560
+[43:45:27.064] 16:06:03.871 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:1572
+[43:45:28.569] 16:06:05.376 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:2555904 mod Date:Mon Feb 22 16:06:05 GMT-0500 2016 highest UID:1572
+[43:45:44.505] 16:06:21.312 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:1572
+[43:45:46.024] 16:06:22.831 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:2555904 mod Date:Mon Feb 22 16:06:22 GMT-0500 2016 highest UID:1572
+[43:48:42.557] 16:09:19.363 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:1572
+[43:48:43.730] 16:09:20.536 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:2555904 mod Date:Mon Feb 22 16:09:20 GMT-0500 2016 highest UID:1572
+[43:49:06.148] 16:09:42.955 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:1572
+[43:49:07.352] 16:09:44.159 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:2555904 mod Date:Mon Feb 22 16:09:44 GMT-0500 2016 highest UID:1572
+[43:49:21.715] 16:09:58.522 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:1572
+[43:49:22.893] 16:09:59.700 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:2555904 mod Date:Mon Feb 22 16:09:59 GMT-0500 2016 highest UID:1572
+[43:51:04.506] 16:11:41.312 | Beginning drag
+[43:51:04.515] 16:11:41.321 | Already dragging, so cannot restart drag
+[43:51:08.286] 16:11:45.093 | Drag complete
+[43:54:14.428] 16:14:51.235 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:1575
+[43:54:15.845] 16:14:52.652 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:2555904 mod Date:Mon Feb 22 16:14:52 GMT-0500 2016 highest UID:1575
+[43:57:50.153] 16:18:26.960 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:1575
+[43:57:51.678] 16:18:28.485 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:2555904 mod Date:Mon Feb 22 16:18:28 GMT-0500 2016 highest UID:1575
+[43:59:55.928] 16:20:32.735 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:1575
+[43:59:57.465] 16:20:34.271 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:2555904 mod Date:Mon Feb 22 16:20:34 GMT-0500 2016 highest UID:1575
+[44:00:33.239] 16:21:10.046 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:1575
+[44:00:34.754] 16:21:11.560 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:2555904 mod Date:Mon Feb 22 16:21:11 GMT-0500 2016 highest UID:1575
+[44:01:18.342] 16:21:55.149 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:1575
+[44:01:19.545] 16:21:56.352 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:2555904 mod Date:Mon Feb 22 16:21:56 GMT-0500 2016 highest UID:1575
+[48:17:14.701] 20:37:51.508 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:1681
+[48:17:15.901] 20:37:52.708 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:2555904 mod Date:Mon Feb 22 20:37:52 GMT-0500 2016 highest UID:1681
+[48:19:01.322] 20:39:38.129 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:1689
+[48:19:02.899] 20:39:39.705 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:2555904 mod Date:Mon Feb 22 20:39:39 GMT-0500 2016 highest UID:1689
+[48:25:40.890] 20:46:17.697 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:1885
+[48:25:42.054] 20:46:18.861 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:2555904 mod Date:Mon Feb 22 20:46:18 GMT-0500 2016 highest UID:1885
+[49:07:23.533] 21:28:00.340 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:1885
+[49:07:25.045] 21:28:01.852 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:2555904 mod Date:Mon Feb 22 21:28:01 GMT-0500 2016 highest UID:1885
+[49:09:34.209] 21:30:11.016 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:1885
+[49:09:35.371] 21:30:12.178 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:2555904 mod Date:Mon Feb 22 21:30:12 GMT-0500 2016 highest UID:1885
+[49:20:07.238] 21:40:44.045 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:1907
+[49:20:08.774] 21:40:45.581 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:2555904 mod Date:Mon Feb 22 21:40:45 GMT-0500 2016 highest UID:1907
+[49:22:11.156] 21:42:47.963 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:1922
+[49:22:12.355] 21:42:49.161 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:2719744 mod Date:Mon Feb 22 21:42:49 GMT-0500 2016 highest UID:1922
+[49:24:06.281] 21:44:43.088 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:1922
+[49:24:07.478] 21:44:44.285 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:2719744 mod Date:Mon Feb 22 21:44:44 GMT-0500 2016 highest UID:1922
+[49:40:19.656] 22:00:56.463 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:2932
+[49:40:21.622] 22:00:58.429 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:4227072 mod Date:Mon Feb 22 22:00:58 GMT-0500 2016 highest UID:2932
+[49:41:16.858] 22:01:53.665 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:3033
+[49:41:18.040] 22:01:54.847 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:4358144 mod Date:Mon Feb 22 22:01:54 GMT-0500 2016 highest UID:3033
+[88:32:16.856] 12:52:53.662 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:3033
+[88:32:18.045] 12:52:54.851 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:4358144 mod Date:Wed Feb 24 12:52:54 GMT-0500 2016 highest UID:3033
+[88:38:03.530] 12:58:40.336 | Beginning drag
+[88:38:03.540] 12:58:40.346 | Already dragging, so cannot restart drag
+[88:38:04.990] 12:58:41.797 | Drag complete
+[88:42:48.186] 13:03:24.993 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:3033
+[88:42:49.363] 13:03:26.170 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:4456448 mod Date:Wed Feb 24 13:03:26 GMT-0500 2016 highest UID:3033
+[114:55:42.509] 15:16:19.316 | Beginning drag
+[114:55:42.512] 15:16:19.319 | Already dragging, so cannot restart drag
+[114:55:48.118] 15:16:24.925 | Drag complete
+[114:55:51.206] 15:16:28.012 | Beginning drag
+[114:55:51.216] 15:16:28.023 | Already dragging, so cannot restart drag
+[114:55:53.987] 15:16:30.794 | Drag complete
+[114:55:58.634] 15:16:35.440 | Beginning drag
+[114:55:58.644] 15:16:35.450 | Already dragging, so cannot restart drag
+[114:55:59.970] 15:16:36.777 | Drag complete
+[114:58:31.524] 15:19:08.330 | Beginning drag
+[114:58:31.538] 15:19:08.345 | Already dragging, so cannot restart drag
+[114:58:33.276] 15:19:10.083 | Drag complete
+[115:06:35.391] 15:27:12.198 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:3051
+[115:06:36.920] 15:27:13.726 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:4521984 mod Date:Thu Feb 25 15:27:13 GMT-0500 2016 highest UID:3051
+[115:09:56.132] 15:30:32.938 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:3051
+[115:09:58.249] 15:30:35.056 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:4521984 mod Date:Thu Feb 25 15:30:34 GMT-0500 2016 highest UID:3051
+[115:14:24.825] 15:35:01.632 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:3059
+[115:14:25.993] 15:35:02.800 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:4554752 mod Date:Thu Feb 25 15:35:02 GMT-0500 2016 highest UID:3059
+[115:26:26.327] 15:47:03.133 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:3059
+[115:26:27.517] 15:47:04.324 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:4554752 mod Date:Thu Feb 25 15:47:04 GMT-0500 2016 highest UID:3059
+[115:40:15.312] 16:00:52.119 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:3059
+[115:40:16.500] 16:00:53.306 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:4554752 mod Date:Thu Feb 25 16:00:53 GMT-0500 2016 highest UID:3059
+[115:50:46.978] 16:11:23.785 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:3059
+[115:50:48.484] 16:11:25.291 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:4587520 mod Date:Thu Feb 25 16:11:25 GMT-0500 2016 highest UID:3059
+[115:56:55.726] 16:17:32.533 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:3059
+[115:56:57.476] 16:17:34.283 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:4587520 mod Date:Thu Feb 25 16:17:34 GMT-0500 2016 highest UID:3059
+[115:57:51.853] 16:18:28.660 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:3059
+[115:57:53.352] 16:18:30.159 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:4587520 mod Date:Thu Feb 25 16:18:30 GMT-0500 2016 highest UID:3059
+[119:15:33.336] 19:36:10.143 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:3059
+[119:15:34.532] 19:36:11.339 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:4587520 mod Date:Thu Feb 25 19:36:11 GMT-0500 2016 highest UID:3059
+[120:04:45.235] 20:25:22.041 | Converting from file format 244 to format 342 for file:/Users/workshop/Library/Preferences/Adobe/Adobe Muse CC Libraries/2015.1/Mobile-Design/00 Master Elements.muse
+[120:04:55.216] 20:25:32.023 | Beginning Save for file '/Users/workshop/Library/Preferences/Adobe/Adobe Muse CC Libraries/2015.1/Mobile-Design/00 Master Elements.muse' highest UID:189
+[120:04:56.526] 20:25:33.333 | Save complete for file '/Users/workshop/Library/Preferences/Adobe/Adobe Muse CC Libraries/2015.1/Mobile-Design/00 Master Elements.muse' file size:622592 mod Date:Thu Feb 25 20:25:33 GMT-0500 2016 highest UID:189
+[120:04:56.859] 20:25:33.665 | Converting from file format 244 to format 342 for file:/Users/workshop/Library/Preferences/Adobe/Adobe Muse CC Libraries/2015.1/Mobile-Design/01 Intro + Phone.muse
+[120:05:06.698] 20:25:43.504 | Beginning Save for file '/Users/workshop/Library/Preferences/Adobe/Adobe Muse CC Libraries/2015.1/Mobile-Design/01 Intro + Phone.muse' highest UID:118
+[120:05:08.112] 20:25:44.919 | Save complete for file '/Users/workshop/Library/Preferences/Adobe/Adobe Muse CC Libraries/2015.1/Mobile-Design/01 Intro + Phone.muse' file size:491520 mod Date:Thu Feb 25 20:25:44 GMT-0500 2016 highest UID:118
+[120:05:08.445] 20:25:45.252 | Converting from file format 244 to format 342 for file:/Users/workshop/Library/Preferences/Adobe/Adobe Muse CC Libraries/2015.1/Mobile-Design/02 Map.muse
+[120:05:18.288] 20:25:55.094 | Beginning Save for file '/Users/workshop/Library/Preferences/Adobe/Adobe Muse CC Libraries/2015.1/Mobile-Design/02 Map.muse' highest UID:118
+[120:05:19.692] 20:25:56.498 | Save complete for file '/Users/workshop/Library/Preferences/Adobe/Adobe Muse CC Libraries/2015.1/Mobile-Design/02 Map.muse' file size:557056 mod Date:Thu Feb 25 20:25:56 GMT-0500 2016 highest UID:118
+[120:05:20.026] 20:25:56.833 | Converting from file format 244 to format 342 for file:/Users/workshop/Library/Preferences/Adobe/Adobe Muse CC Libraries/2015.1/Mobile-Design/03 Contact Form.muse
+[120:05:29.950] 20:26:06.756 | Beginning Save for file '/Users/workshop/Library/Preferences/Adobe/Adobe Muse CC Libraries/2015.1/Mobile-Design/03 Contact Form.muse' highest UID:164
+[120:05:31.358] 20:26:08.165 | Save complete for file '/Users/workshop/Library/Preferences/Adobe/Adobe Muse CC Libraries/2015.1/Mobile-Design/03 Contact Form.muse' file size:720896 mod Date:Thu Feb 25 20:26:08 GMT-0500 2016 highest UID:164
+[120:05:31.695] 20:26:08.501 | Converting from file format 244 to format 342 for file:/Users/workshop/Library/Preferences/Adobe/Adobe Muse CC Libraries/2015.1/Mobile-Design/04 Slideshow.muse
+[120:05:41.530] 20:26:18.336 | Beginning Save for file '/Users/workshop/Library/Preferences/Adobe/Adobe Muse CC Libraries/2015.1/Mobile-Design/04 Slideshow.muse' highest UID:107
+[120:05:42.944] 20:26:19.751 | Save complete for file '/Users/workshop/Library/Preferences/Adobe/Adobe Muse CC Libraries/2015.1/Mobile-Design/04 Slideshow.muse' file size:458752 mod Date:Thu Feb 25 20:26:19 GMT-0500 2016 highest UID:107
+[120:05:43.286] 20:26:20.093 | Converting from file format 244 to format 342 for file:/Users/workshop/Library/Preferences/Adobe/Adobe Muse CC Libraries/2015.1/Mobile-Design/iOS Favicon Code.muse
+[120:05:53.111] 20:26:29.918 | Beginning Save for file '/Users/workshop/Library/Preferences/Adobe/Adobe Muse CC Libraries/2015.1/Mobile-Design/iOS Favicon Code.muse' highest UID:91
+[120:05:54.525] 20:26:31.331 | Save complete for file '/Users/workshop/Library/Preferences/Adobe/Adobe Muse CC Libraries/2015.1/Mobile-Design/iOS Favicon Code.muse' file size:360448 mod Date:Thu Feb 25 20:26:31 GMT-0500 2016 highest UID:91
+[120:07:13.115] 20:27:49.921 | Beginning drag
+[120:07:13.143] 20:27:49.950 | Already dragging, so cannot restart drag
+[120:07:19.786] 20:27:56.593 | Drag complete
+[120:13:46.846] 20:34:23.653 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:4450
+[120:13:48.348] 20:34:25.155 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:4587520 mod Date:Thu Feb 25 20:34:25 GMT-0500 2016 highest UID:4450
+[122:00:25.854] 22:21:02.660 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:4832
+[122:00:27.036] 22:21:03.843 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:4587520 mod Date:Thu Feb 25 22:21:03 GMT-0500 2016 highest UID:4832
+[122:09:43.006] 22:30:19.813 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:4832
+[122:09:44.192] 22:30:20.999 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:4587520 mod Date:Thu Feb 25 22:30:20 GMT-0500 2016 highest UID:4832
+[122:25:08.831] 22:45:45.638 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:4835
+[122:25:10.002] 22:45:46.809 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:4587520 mod Date:Thu Feb 25 22:45:46 GMT-0500 2016 highest UID:4835
+[122:37:49.557] 22:58:26.363 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:4901
+[122:37:50.736] 22:58:27.543 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:4587520 mod Date:Thu Feb 25 22:58:27 GMT-0500 2016 highest UID:4901
+[123:22:02.766] 23:42:39.573 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:4969
+[123:22:04.301] 23:42:41.107 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:4620288 mod Date:Thu Feb 25 23:42:40 GMT-0500 2016 highest UID:4969
+[123:22:29.528] 23:43:06.335 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:4969
+[123:22:31.052] 23:43:07.859 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:4653056 mod Date:Thu Feb 25 23:43:07 GMT-0500 2016 highest UID:4969
+[123:53:45.400] 00:14:22.207 | Beginning drag
+[123:53:45.421] 00:14:22.228 | Already dragging, so cannot restart drag
+[123:53:47.277] 00:14:24.083 | Drag complete
+[123:53:48.657] 00:14:25.463 | Beginning drag
+[123:53:48.676] 00:14:25.482 | Already dragging, so cannot restart drag
+[123:53:50.225] 00:14:27.031 | Drag complete
+[123:53:51.023] 00:14:27.829 | Beginning drag
+[123:53:51.034] 00:14:27.841 | Already dragging, so cannot restart drag
+[123:53:51.990] 00:14:28.796 | Drag complete
+[124:02:52.132] 00:23:28.939 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:4987
+[124:02:53.315] 00:23:30.122 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:4751360 mod Date:Fri Feb 26 00:23:30 GMT-0500 2016 highest UID:4987
+[124:38:34.954] 00:59:11.760 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:5038
+[124:38:36.472] 00:59:13.279 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:4816896 mod Date:Fri Feb 26 00:59:13 GMT-0500 2016 highest UID:5038
+[136:06:12.699] 12:26:49.506 | Beginning drag
+[136:06:12.713] 12:26:49.520 | Already dragging, so cannot restart drag
+[136:06:17.625] 12:26:54.432 | Drag complete
+[136:06:38.481] 12:27:15.287 | Beginning drag
+[136:06:38.490] 12:27:15.297 | Already dragging, so cannot restart drag
+[136:06:41.378] 12:27:18.185 | Drag complete
+[139:26:23.332] 15:47:00.139 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:5691
+[139:26:24.514] 15:47:01.321 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:4816896 mod Date:Fri Feb 26 15:47:01 GMT-0500 2016 highest UID:5691
+[139:34:30.104] 15:55:06.911 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:5691
+[139:34:31.299] 15:55:08.106 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:4816896 mod Date:Fri Feb 26 15:55:07 GMT-0500 2016 highest UID:5691
+[139:39:27.860] 16:00:04.667 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:5715
+[139:39:29.375] 16:00:06.181 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:6586368 mod Date:Fri Feb 26 16:00:06 GMT-0500 2016 highest UID:5715
+[139:45:36.527] 16:06:13.334 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:5715
+[139:45:37.696] 16:06:14.503 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:6586368 mod Date:Fri Feb 26 16:06:14 GMT-0500 2016 highest UID:5715
+[139:49:20.239] 16:09:57.046 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:5715
+[139:49:21.784] 16:09:58.590 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:6586368 mod Date:Fri Feb 26 16:09:58 GMT-0500 2016 highest UID:5715
+[139:59:56.461] 16:20:33.268 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:5715
+[139:59:57.635] 16:20:34.441 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:6586368 mod Date:Fri Feb 26 16:20:34 GMT-0500 2016 highest UID:5715
+[140:16:19.615] 16:36:56.421 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:5715
+[140:16:21.112] 16:36:57.919 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:6586368 mod Date:Fri Feb 26 16:36:57 GMT-0500 2016 highest UID:5715
+[140:33:44.346] 16:54:21.153 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:5721
+[140:33:45.548] 16:54:22.355 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:6586368 mod Date:Fri Feb 26 16:54:22 GMT-0500 2016 highest UID:5721
+[140:34:25.753] 16:55:02.560 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:5721
+[140:34:27.255] 16:55:04.062 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:6586368 mod Date:Fri Feb 26 16:55:03 GMT-0500 2016 highest UID:5721
+[160:13:39.330] 12:34:16.137 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:5724
+[160:13:40.827] 12:34:17.634 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:6651904 mod Date:Sat Feb 27 12:34:17 GMT-0500 2016 highest UID:5724
+[160:22:22.560] 12:42:59.366 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:5733
+[160:22:23.732] 12:43:00.539 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:6651904 mod Date:Sat Feb 27 12:43:00 GMT-0500 2016 highest UID:5733
+[160:27:47.402] 12:48:24.208 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:5733
+[160:27:48.601] 12:48:25.408 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:6651904 mod Date:Sat Feb 27 12:48:25 GMT-0500 2016 highest UID:5733
+[160:30:30.263] 12:51:07.070 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:5736
+[160:30:31.763] 12:51:08.570 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:6651904 mod Date:Sat Feb 27 12:51:08 GMT-0500 2016 highest UID:5736
+[160:33:41.877] 12:54:18.684 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:5736
+[160:33:43.387] 12:54:20.194 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:6651904 mod Date:Sat Feb 27 12:54:20 GMT-0500 2016 highest UID:5736
+[160:44:26.103] 13:05:02.910 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:5736
+[160:44:27.619] 13:05:04.426 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:6651904 mod Date:Sat Feb 27 13:05:04 GMT-0500 2016 highest UID:5736
+[160:51:20.338] 13:11:57.145 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:5736
+[160:51:21.528] 13:11:58.335 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:6651904 mod Date:Sat Feb 27 13:11:58 GMT-0500 2016 highest UID:5736
+[160:54:00.189] 13:14:36.996 | Beginning drag
+[160:54:00.232] 13:14:37.038 | Already dragging, so cannot restart drag
+[160:54:01.904] 13:14:38.710 | Drag complete
+[160:54:09.768] 13:14:46.574 | Beginning drag
+[160:54:09.786] 13:14:46.593 | Already dragging, so cannot restart drag
+[160:54:10.805] 13:14:47.612 | Drag complete
+[160:54:12.747] 13:14:49.554 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:5736
+[160:54:13.939] 13:14:50.745 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:6684672 mod Date:Sat Feb 27 13:14:50 GMT-0500 2016 highest UID:5736
+[161:33:02.810] 13:53:39.617 | Beginning drag
+[161:33:02.822] 13:53:39.629 | Already dragging, so cannot restart drag
+[161:33:04.522] 13:53:41.329 | Drag complete
+[161:33:53.722] 13:54:30.528 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:5742
+[161:33:55.223] 13:54:32.029 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:6684672 mod Date:Sat Feb 27 13:54:31 GMT-0500 2016 highest UID:5742
+[161:34:36.665] 13:55:13.472 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:5742
+[161:34:37.846] 13:55:14.652 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:6684672 mod Date:Sat Feb 27 13:55:14 GMT-0500 2016 highest UID:5742
+[161:41:03.183] 14:01:39.989 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:5744
+[161:41:04.378] 14:01:41.185 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:6684672 mod Date:Sat Feb 27 14:01:41 GMT-0500 2016 highest UID:5744
+[161:41:36.648] 14:02:13.455 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:5744
+[161:41:38.170] 14:02:14.976 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:6684672 mod Date:Sat Feb 27 14:02:14 GMT-0500 2016 highest UID:5744
+[161:42:14.978] 14:02:51.785 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:5744
+[161:42:16.502] 14:02:53.309 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:6684672 mod Date:Sat Feb 27 14:02:53 GMT-0500 2016 highest UID:5744
+[161:43:46.140] 14:04:22.947 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:5744
+[161:43:47.333] 14:04:24.140 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:6684672 mod Date:Sat Feb 27 14:04:24 GMT-0500 2016 highest UID:5744
+[161:46:02.809] 14:06:39.616 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:5744
+[161:46:04.333] 14:06:41.140 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:6684672 mod Date:Sat Feb 27 14:06:41 GMT-0500 2016 highest UID:5744
+[162:45:02.139] 15:05:38.946 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:5744
+[162:45:03.306] 15:05:40.112 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:6684672 mod Date:Sat Feb 27 15:05:39 GMT-0500 2016 highest UID:5744
+[163:01:36.891] 15:22:13.698 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:5750
+[163:01:38.074] 15:22:14.881 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:6684672 mod Date:Sat Feb 27 15:22:14 GMT-0500 2016 highest UID:5750
+[163:01:47.782] 15:22:24.588 | Beginning drag
+[163:01:47.793] 15:22:24.600 | Already dragging, so cannot restart drag
+[163:01:50.089] 15:22:26.896 | Drag complete
+[163:01:53.022] 15:22:29.829 | Beginning drag
+[163:01:53.035] 15:22:29.841 | Already dragging, so cannot restart drag
+[163:01:55.501] 15:22:32.308 | Drag complete
+[163:03:17.195] 15:23:54.002 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:5750
+[163:03:18.695] 15:23:55.502 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:6684672 mod Date:Sat Feb 27 15:23:55 GMT-0500 2016 highest UID:5750
+[163:04:50.484] 15:25:27.291 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:5750
+[163:04:51.989] 15:25:28.796 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:6684672 mod Date:Sat Feb 27 15:25:28 GMT-0500 2016 highest UID:5750
+[163:18:25.745] 15:39:02.552 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:5750
+[163:18:27.260] 15:39:04.067 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:6684672 mod Date:Sat Feb 27 15:39:03 GMT-0500 2016 highest UID:5750
+[163:21:30.837] 15:42:07.644 | Beginning drag
+[163:21:30.851] 15:42:07.657 | Already dragging, so cannot restart drag
+[163:21:32.158] 15:42:08.965 | Drag complete
+[163:21:33.666] 15:42:10.473 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:5750
+[163:21:35.172] 15:42:11.979 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:6684672 mod Date:Sat Feb 27 15:42:11 GMT-0500 2016 highest UID:5750
+[163:22:18.590] 15:42:55.397 | Beginning drag
+[163:22:18.601] 15:42:55.408 | Already dragging, so cannot restart drag
+[163:22:22.866] 15:42:59.672 | Drag complete
+[163:23:18.242] 15:43:55.049 | Beginning drag
+[163:23:18.255] 15:43:55.062 | Already dragging, so cannot restart drag
+[163:23:19.227] 15:43:56.034 | Drag complete
+[163:23:45.033] 15:44:21.840 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:5750
+[163:23:46.542] 15:44:23.349 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:6684672 mod Date:Sat Feb 27 15:44:23 GMT-0500 2016 highest UID:5750
+[163:35:09.753] 15:55:46.559 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:5750
+[163:35:10.939] 15:55:47.745 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:6684672 mod Date:Sat Feb 27 15:55:47 GMT-0500 2016 highest UID:5750
+[163:37:03.288] 15:57:40.095 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:5750
+[163:37:04.465] 15:57:41.272 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:6684672 mod Date:Sat Feb 27 15:57:41 GMT-0500 2016 highest UID:5750
+[163:39:09.393] 15:59:46.200 | Beginning drag
+[163:39:09.402] 15:59:46.208 | Already dragging, so cannot restart drag
+[163:39:11.220] 15:59:48.027 | Drag complete
+[163:39:14.482] 15:59:51.289 | Beginning drag
+[163:39:14.491] 15:59:51.298 | Already dragging, so cannot restart drag
+[163:39:18.168] 15:59:54.975 | Drag complete
+[163:41:33.612] 16:02:10.418 | Beginning drag
+[163:41:33.622] 16:02:10.429 | Already dragging, so cannot restart drag
+[163:41:35.426] 16:02:12.233 | Drag complete
+[163:41:46.044] 16:02:22.851 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:5753
+[163:41:47.251] 16:02:24.057 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:6684672 mod Date:Sat Feb 27 16:02:23 GMT-0500 2016 highest UID:5753
+[163:47:34.690] 16:08:11.496 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:5753
+[163:47:35.869] 16:08:12.676 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:6684672 mod Date:Sat Feb 27 16:08:12 GMT-0500 2016 highest UID:5753
+[163:50:57.283] 16:11:34.089 | HTMLExport infirev-ws(5 pages) to 'infirev.com' completed with 2 warnings.
+[163:50:57.283] 16:11:34.090 | 91027:Form Home Form is configured with an email address of bcultess.acnibo@gmail.com, which does not match the server name infirev.com. Some hosting providers refuse to send emails from email addresses on different hosts. If submitting your form does not send email as expected, change the first email address listed in your Muse form to an address on infirev.com and try again.
+[163:50:57.283] 16:11:34.090 | 91027:Form Home Form is configured with an email address of bcultess.acnibo@gmail.com, which does not match the server name infirev.com. Some hosting providers refuse to send emails from email addresses on different hosts. If submitting your form does not send email as expected, change the first email address listed in your Muse form to an address on infirev.com and try again.
+[164:01:12.030] 16:21:48.837 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:5753
+[164:01:13.560] 16:21:50.366 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:6684672 mod Date:Sat Feb 27 16:21:50 GMT-0500 2016 highest UID:5753
+[164:01:31.721] 16:22:08.528 | HTMLExport infirev-ws(5 pages) to 'infirev.com' completed with 1 warnings.
+[164:01:31.721] 16:22:08.528 | 91027:Form Home Form is configured with an email address of bcultess.acnibo@gmail.com, which does not match the server name infirev.com. Some hosting providers refuse to send emails from email addresses on different hosts. If submitting your form does not send email as expected, change the first email address listed in your Muse form to an address on infirev.com and try again.
+[169:30:30.474] 21:51:07.281 | HTMLPI::callCompletionFuncWithCachedBMD has no _posterCompleteFunc. Hope that's ok
+[169:31:05.765] 21:51:42.572 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:5972
+[169:31:07.435] 21:51:44.241 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:6684672 mod Date:Sat Feb 27 21:51:44 GMT-0500 2016 highest UID:5972
+[169:32:24.875] 21:53:01.681 | HTMLPI::callCompletionFuncWithCachedBMD has no _posterCompleteFunc. Hope that's ok
+[169:34:59.784] 21:55:36.591 | Beginning drag
+[169:34:59.794] 21:55:36.601 | Already dragging, so cannot restart drag
+[169:35:01.358] 21:55:38.165 | Drag complete
+[169:35:02.025] 21:55:38.832 | Beginning drag
+[169:35:02.047] 21:55:38.854 | Already dragging, so cannot restart drag
+[169:35:02.953] 21:55:39.759 | Drag complete
+[169:40:00.184] 22:00:36.991 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:6464
+[169:40:01.710] 22:00:38.517 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:6684672 mod Date:Sat Feb 27 22:00:38 GMT-0500 2016 highest UID:6464
+[169:40:29.984] 22:01:06.790 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:6464
+[169:40:31.170] 22:01:07.976 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:6684672 mod Date:Sat Feb 27 22:01:07 GMT-0500 2016 highest UID:6464
+[169:40:48.220] 22:01:25.027 | HTMLExport infirev-ws(6 pages) to 'infirev.com' completed with 2 warnings.
+[169:40:48.220] 22:01:25.027 | 91027:Form Home Form is configured with an email address of bcultess.acnibo@gmail.com, which does not match the server name infirev.com. Some hosting providers refuse to send emails from email addresses on different hosts. If submitting your form does not send email as expected, change the first email address listed in your Muse form to an address on infirev.com and try again.
+[169:40:48.220] 22:01:25.027 | 91027:Form Home Form is configured with an email address of bcultess.acnibo@gmail.com, which does not match the server name infirev.com. Some hosting providers refuse to send emails from email addresses on different hosts. If submitting your form does not send email as expected, change the first email address listed in your Muse form to an address on infirev.com and try again.
+[169:49:20.950] 22:09:57.757 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:6562
+[169:49:22.153] 22:09:58.960 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:6684672 mod Date:Sat Feb 27 22:09:58 GMT-0500 2016 highest UID:6562
+[169:52:49.317] 22:13:26.124 | HTMLExport infirev-ws(6 pages) to 'infirev.com' completed with 2 warnings.
+[169:52:49.317] 22:13:26.124 | 91027:Form Home Form is configured with an email address of bcultess.acnibo@gmail.com, which does not match the server name infirev.com. Some hosting providers refuse to send emails from email addresses on different hosts. If submitting your form does not send email as expected, change the first email address listed in your Muse form to an address on infirev.com and try again.
+[169:52:49.317] 22:13:26.124 | 91027:Form Home Form is configured with an email address of bcultess.acnibo@gmail.com, which does not match the server name infirev.com. Some hosting providers refuse to send emails from email addresses on different hosts. If submitting your form does not send email as expected, change the first email address listed in your Muse form to an address on infirev.com and try again.
+[169:58:24.000] 22:19:00.806 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:6777
+[169:58:25.186] 22:19:01.993 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:6684672 mod Date:Sat Feb 27 22:19:01 GMT-0500 2016 highest UID:6777
+[216:35:15.228] 20:55:52.035 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:6878
+[216:35:16.775] 20:55:53.581 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:6684672 mod Date:Mon Feb 29 20:55:53 GMT-0500 2016 highest UID:6878
+[216:35:54.074] 20:56:30.880 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:6878
+[216:35:55.605] 20:56:32.411 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:6684672 mod Date:Mon Feb 29 20:56:32 GMT-0500 2016 highest UID:6878
+[216:40:20.754] 21:00:57.560 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:6887
+[216:40:22.432] 21:00:59.239 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:6684672 mod Date:Mon Feb 29 21:00:59 GMT-0500 2016 highest UID:6887
+[216:41:26.696] 21:02:03.503 | Beginning drag
+[216:41:26.708] 21:02:03.515 | Already dragging, so cannot restart drag
+[216:41:28.926] 21:02:05.733 | Drag complete
+[217:50:09.448] 22:10:46.255 | Beginning SaveAs of 'something' to file '/private/var/folders/_s/xb57x5f54cj37pwbq8965b1m0000gp/T/TemporaryItems/1456801845810.muse' highest UID:98
+[217:50:11.361] 22:10:48.168 | SaveAs complete for file '/private/var/folders/_s/xb57x5f54cj37pwbq8965b1m0000gp/T/TemporaryItems/1456801845810.muse' file size:360448 mod Date:Mon Feb 29 22:10:48 GMT-0500 2016 highest UID:98
+[217:57:17.766] 22:17:54.572 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:6942
+[217:57:18.972] 22:17:55.779 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:6684672 mod Date:Mon Feb 29 22:17:55 GMT-0500 2016 highest UID:6942
+[218:15:00.296] 22:35:37.103 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:7091
+[218:15:01.473] 22:35:38.279 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:6684672 mod Date:Mon Feb 29 22:35:38 GMT-0500 2016 highest UID:7091
+[218:15:30.007] 22:36:06.814 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:7091
+[218:15:31.766] 22:36:08.573 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:6684672 mod Date:Mon Feb 29 22:36:08 GMT-0500 2016 highest UID:7091
+[218:15:49.406] 22:36:26.212 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:7091
+[218:15:51.097] 22:36:27.903 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:6684672 mod Date:Mon Feb 29 22:36:27 GMT-0500 2016 highest UID:7091
+[218:23:23.572] 22:44:00.379 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:7091
+[218:23:24.754] 22:44:01.560 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:6684672 mod Date:Mon Feb 29 22:44:01 GMT-0500 2016 highest UID:7091
+[218:30:34.165] 22:51:10.972 | Beginning Save for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' highest UID:7141
+[218:30:35.951] 22:51:12.758 | Save complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws.muse' file size:6684672 mod Date:Mon Feb 29 22:51:12 GMT-0500 2016 highest UID:7141
+[218:33:25.424] 22:54:02.231 | HTMLExport infirev-ws(6 pages) to 'infirev.com' completed with 2 warnings.
+[218:33:25.424] 22:54:02.231 | 91027:Form Home Form is configured with an email address of bcultess.acnibo@gmail.com, which does not match the server name infirev.com. Some hosting providers refuse to send emails from email addresses on different hosts. If submitting your form does not send email as expected, change the first email address listed in your Muse form to an address on infirev.com and try again.
+[218:33:25.424] 22:54:02.231 | 91027:Form Home Form is configured with an email address of bcultess.acnibo@gmail.com, which does not match the server name infirev.com. Some hosting providers refuse to send emails from email addresses on different hosts. If submitting your form does not send email as expected, change the first email address listed in your Muse form to an address on infirev.com and try again.
+[229:34:22.152] 09:54:58.958 | Beginning SaveAs of 'infirev-ws' to file '/Users/workshop/Documents/ACN/assets/infirev-ws-v2.muse' highest UID:7241
+[229:34:24.746] 09:55:01.552 | SaveAs complete for file '/Users/workshop/Documents/ACN/assets/infirev-ws-v2.muse' file size:4718592 mod Date:Tue Mar 1 09:55:01 GMT-0500 2016 highest UID:7241
+[229:36:21.493] 09:56:58.300 | quitWithUI:Quitting Application. Called by: 
+[229:36:24.719] 09:57:01.526 | Quitting Application after 13776.3 minutes. Called by: 
+
+==========
+Logging ended at: Tue Mar  1 09:57:12 2016
+

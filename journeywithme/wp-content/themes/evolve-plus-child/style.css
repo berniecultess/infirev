@@ -1,0 +1,23 @@
+/* 
+Theme Name: evolve Plus child
+Theme URI: http://theme4press.com/evolve-multipurpose-wordpress-theme/
+Version: 2.5.1
+Description: Multipurpose WordPress theme
+Author: Theme4Press
+Author URI: http://theme4press.com
+Tags: buddypress, two-columns, fixed-layout, fluid-layout, responsive-layout, left-sidebar, right-sidebar, full-width-template, sticky-post, threaded-comments, microformats, post-formats, black, blue, white, dark, flexible-header, featured-images, custom-background, custom-colors, custom-header, custom-menu, theme-options, translation-ready
+License: GNU General Public License v2.0
+License URI: http://www.gnu.org/licenses/gpl-2.0.html  
+
+Template: evolve-plus
+*/
+
+
+@import url("../evolve-plus/style.css");
+
+content_box_1_custom_icon, 
+content_box_2_custom_icon, 
+content_box_3_custom_icon, 
+content_box_4_custom_icon {
+	border-radius: 50%;
+}

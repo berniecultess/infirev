@@ -1,0 +1,72 @@
+#u1399
+{
+	background: #C7B299 url("../images/6947872-bird-flying-freedom-5.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u1345,#u1364
+{
+	background-color: transparent;
+}
+
+#u6876
+{
+	background-color: #FF0000;
+}
+
+#u445-4
+{
+	background-color: transparent;
+	text-transform: uppercase;
+	line-height: 30px;
+	font-size: 25px;
+	letter-spacing: 1px;
+	font-family: droid-serif, serif;
+	font-weight: 700;
+}
+
+#u1905-4
+{
+	background-color: transparent;
+	font-size: 14px;
+	font-family: droid-sans, sans-serif;
+	font-weight: 400;
+}
+
+
+@media (min-width: 1311px)
+{
+	#u1399_align_to_page
+	{
+		max-width: 1366px;
+	}
+
+}
+
+@media (min-width: 1239px) and (max-width: 1310px)
+{
+	#u1399_align_to_page
+	{
+		max-width: 1310px;
+	}
+
+}
+
+@media (min-width: 769px) and (max-width: 1238px)
+{
+	#u1399_align_to_page
+	{
+		max-width: 1238px;
+	}
+
+}
+
+@media (max-width: 768px)
+{
+	#u1399_align_to_page
+	{
+		max-width: 768px;
+	}
+
+}
+

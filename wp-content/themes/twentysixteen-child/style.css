@@ -142,3 +142,24 @@
 #ml2-errors label {
 	color: crimson;
 }
+.showcase {
+	margin-top: 60px;
+	margin-bottom: 60px;
+}
+.showcase .cell {
+	width: 24%;
+	display: inline-block;
+	vertical-align: top;
+}
+.showcase .cell p {
+	margin-bottom: 35px;
+    text-align: center;
+}
+.showcase .cell h3 {
+    text-align: center;
+    line-height: 1.2em;
+    font-weight: normal;
+}
+.showcase .time, .showcase .life {
+	margin-top: 67px;
+}

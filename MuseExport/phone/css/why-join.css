@@ -1,0 +1,517 @@
+.version.why_join /* version checker */
+{
+	color: #0000E1;
+	background-color: #4FB1FB;
+}
+
+#muse_css_mq
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 380px;
+	min-height: 1226px;
+	background-image: none;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: transparent;
+}
+
+#pu5722
+{
+	width: 0.01px;
+}
+
+#u5722
+{
+	z-index: 2;
+	width: 380px;
+	height: 570px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u4917
+{
+	z-index: 3;
+	width: 340px;
+	height: 191px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	max-width: 100000px;
+	min-width: 40px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 159px;
+	left: 20px;
+}
+
+#u4918
+{
+	z-index: 4;
+	width: 343px;
+	height: 193px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	max-width: 100000px;
+	min-width: 40px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 456px;
+	left: 19px;
+}
+
+#u4921-4
+{
+	z-index: 7;
+	width: 355px;
+	min-height: 34px;
+	background-color: transparent;
+	line-height: 25px;
+	font-size: 21px;
+	letter-spacing: 1px;
+	font-family: droid-serif, serif;
+	font-weight: 700;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 399px;
+	left: 12px;
+}
+
+#u4922-4
+{
+	z-index: 11;
+	width: 191px;
+	min-height: 21px;
+	background-color: transparent;
+	font-size: 14px;
+	font-family: droid-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 355px;
+	left: 94px;
+}
+
+#u4836-4
+{
+	z-index: 27;
+	width: 255px;
+	min-height: 29px;
+	background-color: transparent;
+	line-height: 25px;
+	font-size: 21px;
+	letter-spacing: 1px;
+	font-family: droid-serif, serif;
+	font-weight: 700;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 107px;
+	left: 62px;
+}
+
+#u4386
+{
+	z-index: 31;
+	width: 380px;
+	height: 71px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u4387
+{
+	z-index: 32;
+	width: 34px;
+	height: 50px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 29px;
+	left: 325px;
+}
+
+#u4389
+{
+	z-index: 33;
+	width: 48px;
+	height: 48px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 14px;
+	left: 319px;
+}
+
+.ie #u5722,.ie #u4389
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#accordionu4391
+{
+	z-index: 35;
+	width: 343px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 9px;
+	left: 18px;
+}
+
+#u4392
+{
+	z-index: 36;
+	width: 343px;
+	position: relative;
+}
+
+#u4402-3
+{
+	z-index: 37;
+	width: 333px;
+	min-height: 36px;
+	padding-left: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	position: relative;
+}
+
+#u4402-3.AccordionPanelTabOpen
+{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	min-height: 36px;
+	width: 333px;
+	margin: 0px;
+}
+
+#u4393
+{
+	z-index: 40;
+	width: 343px;
+	padding-bottom: 3px;
+	position: relative;
+}
+
+#menuu4394
+{
+	z-index: 41;
+	width: 295px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 29px;
+	left: 24px;
+}
+
+#u4395
+{
+	width: 295px;
+	position: relative;
+}
+
+#u4396
+{
+	width: 295px;
+	min-height: 25px;
+	padding-bottom: 15px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u4396:hover
+{
+	width: 295px;
+	min-height: 25px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u4399-4
+{
+	width: 295px;
+	min-height: 25px;
+	position: relative;
+	margin-right: -10000px;
+	top: 7px;
+}
+
+#u4396:hover #u4399-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 25px;
+	width: 295px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u4536
+{
+	width: 295px;
+	min-height: 25px;
+	padding-bottom: 15px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u4396.MuseMenuActive,#u4536:hover
+{
+	width: 295px;
+	min-height: 25px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u4538-4
+{
+	width: 295px;
+	min-height: 25px;
+	position: relative;
+	margin-right: -10000px;
+	top: 7px;
+}
+
+#u4396.MuseMenuActive #u4399-4,#u4536:hover #u4538-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 25px;
+	width: 295px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u4643
+{
+	width: 295px;
+	min-height: 25px;
+	padding-bottom: 15px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u4536.MuseMenuActive,#u4643:hover
+{
+	width: 295px;
+	min-height: 25px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u4645-4
+{
+	width: 295px;
+	min-height: 25px;
+	position: relative;
+	margin-right: -10000px;
+	top: 7px;
+}
+
+#u4536.MuseMenuActive #u4538-4,#u4643:hover #u4645-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 25px;
+	width: 295px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u4535,#u4640,#u4745
+{
+	width: 295px;
+	margin-top: 11px;
+	position: relative;
+}
+
+#u4746
+{
+	width: 295px;
+	min-height: 25px;
+	padding-bottom: 16px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u4643.MuseMenuActive,#u4746:hover
+{
+	width: 295px;
+	min-height: 25px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u4746.MuseMenuActive
+{
+	width: 295px;
+	min-height: 25px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u4747-4
+{
+	width: 295px;
+	min-height: 25px;
+	position: relative;
+	margin-right: -10000px;
+	top: 8px;
+}
+
+#u4643.MuseMenuActive #u4645-4,#u4746:hover #u4747-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 25px;
+	width: 295px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u4746.MuseMenuActive #u4747-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 25px;
+	width: 295px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u4378
+{
+	z-index: 66;
+	width: 142px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 9px;
+	left: 18px;
+}
+
+#u4925-4
+{
+	z-index: 23;
+	width: 232px;
+	min-height: 19px;
+	background-color: transparent;
+	color: #000000;
+	font-size: 14px;
+	font-family: droid-sans, sans-serif;
+	font-weight: 400;
+	margin-left: 74px;
+	margin-top: 4px;
+	position: relative;
+}
+
+#u4919
+{
+	z-index: 5;
+	width: 343px;
+	height: 193px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	max-width: 100000px;
+	min-width: 100px;
+	margin-left: 19px;
+	margin-top: 20px;
+	position: relative;
+}
+
+#u4924-4
+{
+	z-index: 19;
+	width: 186px;
+	min-height: 20px;
+	background-color: transparent;
+	color: #FFFFFF;
+	font-size: 14px;
+	font-family: droid-sans, sans-serif;
+	font-weight: 400;
+	margin-left: 97px;
+	margin-top: 4px;
+	position: relative;
+}
+
+#u4920
+{
+	z-index: 6;
+	width: 343px;
+	height: 193px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	max-width: 100000px;
+	min-width: 100px;
+	margin-left: 19px;
+	margin-top: 20px;
+	position: relative;
+}
+
+#u4923-4
+{
+	z-index: 15;
+	width: 214px;
+	min-height: 21px;
+	background-color: transparent;
+	font-size: 14px;
+	font-family: droid-sans, sans-serif;
+	font-weight: 400;
+	margin-left: 91px;
+	margin-top: 5px;
+	position: relative;
+}
+
+#u4390
+{
+	z-index: 34;
+	width: 380px;
+	padding-bottom: 14px;
+	margin-top: 30px;
+	position: relative;
+}
+
+#u4833-4
+{
+	z-index: 68;
+	width: 176px;
+	min-height: 20px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 14px;
+	left: 100px;
+}
+
+.html
+{
+	background: #FFFFFF url("../../images/6947872-bird-flying-freedom-2.jpg") no-repeat center bottom fixed;
+	background-size: cover;
+}
+
+body
+{
+	position: relative;
+	min-width: 380px;
+}
+
+@-ms-viewport
+{
+	width: 380px;
+}
+
+@-webkit-viewport
+{
+	width: 380px;
+}
+
+@-o-viewport
+{
+	width: 380px;
+}
+
+@-moz-viewport
+{
+	width: 380px;
+}
+
+@viewport
+{
+	width: 380px;
+}
+

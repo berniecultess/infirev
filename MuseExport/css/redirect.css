@@ -1,0 +1,154 @@
+.version.redirect /* version checker */
+{
+	color: #000007;
+	background-color: #9478DC;
+}
+
+#page
+{
+	z-index: 1;
+	width: 320px;
+	min-height: 1282px;
+	border-width: 0px;
+	border-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+	background: #FFFFFF url("../images/lion_family_running_in_lions-1600x900-page-fr3.jpg") no-repeat center top;
+	background-size: contain;
+}
+
+#page_position_content
+{
+	padding-bottom: 26px;
+	width: 0.01px;/* should not cover content below */
+}
+
+#pu1345
+{
+	width: 0.01px;
+	margin-left: -523px;
+}
+
+#u1345
+{
+	z-index: 2;
+	width: 320px;
+	position: relative;
+	margin-right: -10000px;
+	left: 523px;
+}
+
+#u1399_align_to_page
+{
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	width: 320px;
+	left: -523px;
+	padding-top: 41px;
+	padding-bottom: 665px;
+}
+
+#u1364
+{
+	z-index: 9;
+	width: 300px;
+	left: 533px;
+	position: relative;
+}
+
+#u6876
+{
+	z-index: 11;
+	width: 410px;
+	height: 2px;
+	left: 478px;
+	margin-top: 3px;
+	position: relative;
+}
+
+#u445-4
+{
+	z-index: 5;
+	width: 410px;
+	min-height: 34px;
+	left: 478px;
+	margin-top: 3px;
+	position: relative;
+}
+
+.js body
+{
+	visibility: hidden;
+}
+
+.js body.initialized
+{
+	visibility: visible;
+}
+
+#u1399,#u1399-bw
+{
+	z-index: 4;
+	min-height: 854px;
+}
+
+#u6458
+{
+	z-index: 16;
+	min-height: 691px;
+	background-color: #FFFFFF;
+	padding-bottom: 548px;
+}
+
+#u6458_align_to_page
+{
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	width: 320px;
+	left: -523px;
+}
+
+#u6461
+{
+	z-index: 17;
+	width: 200px;
+	min-height: 100px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 591px;
+	left: 570px;
+}
+
+#u6458-bw
+{
+	z-index: 16;
+	min-height: 691px;
+}
+
+#u1905-4
+{
+	z-index: 12;
+	width: 176px;
+	min-height: 20px;
+	margin-left: 72px;
+	margin-top: 24px;
+	position: relative;
+}
+
+#muse_css_mq,.html
+{
+	background-color: #FFFFFF;
+}
+
+body
+{
+	position: relative;
+	min-width: 320px;
+	padding-bottom: 1px;
+}
+

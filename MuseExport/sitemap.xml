@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://infirev.com/images/tir-logo-300.png</loc>
+    <lastmod>2016-03-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://infirev.com/images/6947872-bird-flying-freedom-3.jpg</loc>
+    <lastmod>2016-03-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://infirev.com/images/6947872-bird-flying-freedom-3768x481.jpg</loc>
+    <lastmod>2016-03-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://infirev.com/phone/why-join.html</loc>
+    <lastmod>2016-03-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://infirev.com/phone/featured-publications.html</loc>
+    <lastmod>2016-03-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://infirev.com/phone/why-us.html</loc>
+    <lastmod>2016-03-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://infirev.com/index.html</loc>
+    <lastmod>2016-03-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://infirev.com/phone/index.html"/>
+  </url>
+</urlset>
