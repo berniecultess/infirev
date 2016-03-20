@@ -1,7 +1,7 @@
 .version.redirect /* version checker */
 {
-	color: #000007;
-	background-color: #9478DC;
+	color: #00000B;
+	background-color: #11FE33;
 }
 
 #page
@@ -13,7 +13,7 @@
 	border-color: transparent;
 	margin-left: auto;
 	margin-right: auto;
-	background: #FFFFFF url("../images/lion_family_running_in_lions-1600x900-page-fr3.jpg") no-repeat center top;
+	background: #FFFFFF url("../images/lion_family_running_in_lions-1600x900-page-fr.jpg") no-repeat center top;
 	background-size: contain;
 }
 

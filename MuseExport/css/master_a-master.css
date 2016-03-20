@@ -34,39 +34,3 @@
 }
 
 
-@media (min-width: 1311px)
-{
-	#u1399_align_to_page
-	{
-		max-width: 1366px;
-	}
-
-}
-
-@media (min-width: 1239px) and (max-width: 1310px)
-{
-	#u1399_align_to_page
-	{
-		max-width: 1310px;
-	}
-
-}
-
-@media (min-width: 769px) and (max-width: 1238px)
-{
-	#u1399_align_to_page
-	{
-		max-width: 1238px;
-	}
-
-}
-
-@media (max-width: 768px)
-{
-	#u1399_align_to_page
-	{
-		max-width: 768px;
-	}
-
-}
-

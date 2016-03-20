@@ -1,12 +1,12 @@
-<manifest alg="2" build="2015.1.1.343" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="infirev.com" resolutions="1x" timestamp="1458268689981">
+<manifest alg="2" build="2015.1.1.343" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="infirev.com" resolutions="1x" timestamp="1458513422531">
   <folder name="css">
     <file name="site_global.css" crc="239192557"/>
-    <file name="master_a-master.css" crc="112780163" ref="index:redirect"/>
-    <file name="nomq_preview_master_a-master.css" crc="4170613088" ref="index:redirect"/>
-    <file name="index.css" crc="3897568922" ref="index"/>
+    <file name="master_a-master.css" crc="4127394527" ref="index:redirect"/>
+    <file name="nomq_preview_master_a-master.css" crc="4170613088" ref="index"/>
+    <file name="index.css" crc="24395502" ref="index"/>
     <file name="nomq_index.css" crc="160737775" ref="index"/>
-    <file name="iefonts_index.css" crc="3930703231" ref="index"/>
-    <file name="redirect.css" crc="127170780" ref="redirect"/>
+    <file name="iefonts_index.css" crc="323681473" ref="index"/>
+    <file name="redirect.css" crc="185728563" ref="redirect"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="484278746" ref="phone>index:phone>why-join:phone>featured-publications:phone>why-us:index:redirect"/>
@@ -22,7 +22,7 @@
     <file name="musewpdisclosure.js" crc="3974494556" ref="phone>index:phone>why-join:phone>featured-publications:phone>why-us"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="120190942" ref="phone>index:phone>why-join:phone>featured-publications:phone>why-us:index:redirect"/>
     <file name="jquery.watch.js" crc="3866665977" ref="phone>index:phone>why-join:phone>featured-publications:phone>why-us:index:redirect"/>
-    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>why-join:phone>featured-publications:phone>why-us"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>why-join:phone>featured-publications:phone>why-us:index:redirect"/>
     <file name="museredirect.js" crc="524071285" ref="index"/>
     <file name="form-u5482.php" crc="4081014254" ref="index"/>
     <file name="jquery.museresponsive.js" crc="367458044" ref="index"/>
@@ -65,7 +65,7 @@
     <file name="u5491-17-r2.png" crc="3815328053" ref="index"/>
     <file name="u5491-17-m2.png" crc="3874889397" ref="index"/>
     <file name="u5491-17-fs2.png" crc="317201113" ref="index"/>
-    <file name="lion_family_running_in_lions-1600x900-page-fr.jpg" crc="202703726" ref="index"/>
+    <file name="lion_family_running_in_lions-1600x900-page-fr.jpg" crc="4072273436" ref="index:redirect"/>
     <file name="u5491-173.png" crc="364469680" ref="index"/>
     <file name="u5491-17-r3.png" crc="3815328053" ref="index"/>
     <file name="u5491-17-m3.png" crc="3874889397" ref="index"/>
@@ -76,27 +76,24 @@
     <file name="u5491-17-m4.png" crc="3874889397" ref="index"/>
     <file name="u5491-17-fs4.png" crc="317201113" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="lion_family_running_in_lions-1600x900-page-fr3.jpg" crc="4072273436" ref="redirect"/>
     <file name="6947872-bird-flying-freedom-3320x201.jpg" crc="3788522818" seo="true" ref="redirect"/>
     <file name="6947872-bird-flying-freedom-3768x481.jpg" crc="357934092" seo="true" ref="index"/>
-    <file name="a-master-favicon.ico" crc="4128395235" ref="phone>index:index"/>
+    <file name="a-master-favicon.ico" crc="4128395235" ref="phone>index"/>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="master_a-master.css" crc="43477781" ref="phone>index:phone>featured-publications:phone>why-join:phone>why-us"/>
-      <file name="nomq_preview_master_a-master.css" crc="321525473" ref="phone>index:phone>featured-publications:phone>why-join:phone>why-us"/>
+      <file name="master_a-master.css" crc="4243991305" ref="phone>index:phone>featured-publications:phone>why-join:phone>why-us"/>
       <file name="index.css" crc="4111345135" ref="phone>index"/>
       <file name="iefonts_index.css" crc="4213403217" ref="phone>index"/>
       <file name="featured-publications.css" crc="98050848" ref="phone>featured-publications"/>
       <file name="why-join.css" crc="3780096507" ref="phone>why-join"/>
-      <file name="why-us.css" crc="50060484" ref="phone>why-us"/>
-      <file name="nomq_why-us.css" crc="321525473" ref="phone>why-us"/>
+      <file name="why-us.css" crc="134020870" ref="phone>why-us"/>
     </folder>
-    <file name="index.html" crc="4021745973" seo="true" mt="1458188795582" redirect="true"/>
-    <file name="why-join.html" crc="4189075893" seo="true" mt="1457724688821" redirect="true"/>
-    <file name="featured-publications.html" crc="217654442" seo="true" mt="1457724688821" redirect="true"/>
-    <file name="why-us.html" crc="3849901904" seo="true" mt="1457724688821" redirect="true"/>
+    <file name="index.html" crc="59142719" seo="true" mt="1458513414006" redirect="true"/>
+    <file name="why-join.html" crc="40888117" seo="true" mt="1458513414006" redirect="true"/>
+    <file name="featured-publications.html" crc="360507833" seo="true" mt="1458513414006" redirect="true"/>
+    <file name="why-us.html" crc="3893528872" seo="true" mt="1458513414006" redirect="true"/>
   </folder>
-  <file name="index.html" crc="259746095" seo="true" mt="1458268689183" redirect="true"/>
-  <file name="redirect.html" crc="320458327" mt="1458268689718" redirect="true"/>
+  <file name="index.html" crc="3936439456" seo="true" mt="1458391540759" redirect="true"/>
+  <file name="redirect.html" crc="4174359109" mt="1458513422320" redirect="true"/>
 </manifest>
